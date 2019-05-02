@@ -1,0 +1,2737 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building BuildingWatsonMinchDavidM 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ BuildingWatsonMinchDavidM ---
+Watson V0.2 is loading...
+Watson V0.2 has loaded.
+
+[[Cairo]]	31.145782
+[[Nile]]	30.416302
+[[Khartoum]]	30.220486
+[[Kosti, Sudan]]	28.548553
+[[John Hanning Speke]]	26.599995
+[[Omdurman]]	25.097279
+[[Nile perch]]	25.071749
+[[Faiyum Oasis]]	24.183556
+[[Blue Nile]]	23.959911
+[[Crossing the Red Sea]]	23.911306
+[[Terra Museum]]	39.58165
+[[Utah Museum of Fine Arts]]	39.365543
+[[Appleton Museum of Art]]	38.50239
+[[Cape Cod Museum of Art]]	37.99434
+[[Sally Fletcher-Murchison]]	37.19242
+[[Louvre Atlanta]]	36.613068
+[[Dixon Gallery and Gardens]]	36.549713
+[[Foundation for the Advancement of Art]]	36.27767
+[[Vincent La Gambina]]	34.758965
+[[Collins Center for the Arts]]	34.578228
+[[Fontana Records]]	16.558249
+[[College rock]]	16.047857
+[[WTMX]]	15.893907
+[[Toronto Rocks]]	15.682505
+[[Dream, After Dream]]	15.227876
+[[UEFA Euro 1980 qualifying Group 1]]	15.038683
+[[Alternative country]]	14.993636
+[[Time to Burn (Giant album)]]	14.556994
+[[1980s]]	14.147057
+[[Rock Odyssey]]	14.077846
+[[I. A. L. Diamond]]	38.41806
+[[Sherlock Holmes]]	32.774822
+[[Hans Zimmer]]	31.260647
+[[Irene Adler]]	30.641235
+[[The Five Orange Pips]]	30.042994
+[[Jeremy Brett]]	29.371563
+[[Edward Hardwicke]]	28.723276
+[[Basil Rathbone]]	28.692204
+[[List of actors who have played Sherlock Holmes]]	28.438362
+[[Celeste Holm]]	28.260798
+[[Duce]]	40.300766
+[[Fascist and anti-Fascist violence in Italy (1919–26)]]	32.80826
+[[Romano Mussolini]]	31.920883
+[[Clara Petacci]]	31.71896
+[[Predappio]]	30.994972
+[[Alessandra Mussolini]]	29.521605
+[[Esercito Nazionale Repubblicano]]	29.416542
+[[Fascism in Europe]]	29.350906
+[[Agostino Lanzillo]]	28.310307
+[[Michele Bianchi]]	28.139534
+[[Mehmed VI]]	38.084766
+[[Far Eastern Republic]]	34.89259
+[[Liberalism in Turkey]]	32.47628
+[[History of Armenia]]	32.389385
+[[1920s]]	32.119278
+[[Italian Empire]]	31.923195
+[[Enosis]]	31.51227
+[[Hohenzollern-Sigmaringen]]	31.250225
+[[6th century BC]]	31.154167
+[[Abdülmecid I]]	31.098122
+[[Don Knotts]]	43.46616
+[[Crinkle Crags]]	28.279589
+[[Buttermere]]	23.458527
+[[Three's Company]]	23.287706
+[[Old Man of Coniston]]	22.894281
+[[Walter Knott]]	21.961061
+[[Cliveden set]]	21.915693
+[[San Pedro, Laguna]]	21.879309
+[[Shikumen]]	20.265392
+[[New College, Toronto]]	19.712996
+[[Media of the United States]]	36.10253
+[[Sun-Sentinel]]	35.22717
+[[Star Tribune]]	35.221443
+[[Daily Worker]]	33.23795
+[[The New York Sun]]	31.58329
+[[Reforma]]	31.222782
+[[Houston Chronicle]]	30.765512
+[[Al-Quds Al-Arabi]]	30.608175
+[[De Volkskrant]]	30.391628
+[[List of newspapers in Hong Kong]]	30.366367
+[[Politics of Cambodia]]	52.79232
+[[History of Cambodia]]	44.93825
+[[Norodom Buppha Devi]]	44.04608
+[[Economy of Cambodia]]	43.56867
+[[Khmer Rouge]]	42.020866
+[[Demographics of Cambodia]]	41.073933
+[[Cambodia National and Provincial Resources Data Bank]]	41.01546
+[[Vichara Dany]]	40.166336
+[[American Assistance for Cambodia]]	39.911995
+[[Chaeng Mean Chey]]	39.67888
+[[John Keats]]	51.109055
+[[La Belle Dame sans Merci]]	39.21717
+[[Hyperion (poem)]]	31.14224
+[[Didymus Chalcenterus]]	29.400896
+[[Surdas]]	27.55305
+[[Blank verse]]	27.400246
+[[Thomas Moore]]	26.931414
+[[Lord Byron]]	26.831564
+[[Edmund Spenser]]	26.789669
+[[James Howell]]	26.115362
+[[Bessie Coleman]]	77.96462
+[[Pilot (aeronautics)]]	40.841976
+[[Ida Cox]]	38.108906
+[[Victoria Earle Matthews]]	37.35342
+[[Wilfandel]]	35.75147
+[[Within Our Gates]]	34.66377
+[[Edith S. Sampson]]	34.44187
+[[Lucille Bogan]]	34.132442
+[[Jean Burns]]	34.10647
+[[Zara Wright]]	33.41882
+[[Snug Harbor (jazz club)]]	33.502155
+[[Terra Informa]]	21.107962
+[[Dan Storper]]	20.164715
+[[New Orleans rhythm and blues]]	19.670668
+[[Mount Carmel Academy (Louisiana)]]	18.719494
+[[2006 Centrobasket]]	18.645151
+[[The New Daisy Theatre]]	18.02452
+[[Mark Light Field at Alex Rodriguez Park]]	17.569675
+[[2008 Tampa Bay Storm season]]	17.539072
+[[Defending the Undefendable]]	16.973331
+[[Cathedral of Our Lady of the Rosary (Duluth, Minnesota)]]	32.556255
+[[St. Mary, Our Lady of Mount Carmel Cathedral (Gaylord, Michigan)]]	31.777678
+[[Cathedral of the Sacred Heart (San Angelo, Texas)]]	30.015896
+[[Cathedral of the Immaculate Conception (Lake Charles, Louisiana)]]	28.7168
+[[Jirón de la Unión]]	25.616741
+[[Seinäjoki]]	25.048763
+[[Montpellier Cathedral]]	24.19647
+[[St. John the Evangelist Catholic Church (Indianapolis, Indiana)]]	24.14883
+[[Visitation of the Blessed Virgin Mary Church (Bronx, New York)]]	23.616795
+[[Tourism in the Netherlands]]	23.346725
+[[Freedom Force (2002 video game)]]	28.409132
+[[Phil LaMarr]]	25.72464
+[[Twin Series Vol. 3 – Konchuu Monster/Super Chinese Labyrinth]]	25.605694
+[[Raiden (Metal Gear)]]	25.552456
+[[Armin Shimerman]]	24.600426
+[[Bill Mumy]]	23.654482
+[[Somerset Patriots]]	22.746754
+[[Villains and Vigilantes]]	22.667336
+[[Timmy Ryan]]	22.591988
+[[Rolento]]	22.419827
+[[Souvlaki]]	82.70464
+[[Akçaabat meatballs]]	51.98592
+[[Brazilian cuisine]]	46.718155
+[[Awadhi cuisine]]	43.30854
+[[Sicilian cuisine]]	42.66345
+[[Taste of the Danforth]]	42.188534
+[[Lountza]]	40.380524
+[[Serbian cuisine]]	40.232784
+[[Kushi (skewer)]]	40.012577
+[[Jangan-gu]]	39.652267
+[[Knights of Columbus]]	40.781487
+[[Studentenverbindung]]	28.970812
+[[K.A.V. Lovania Leuven]]	28.271969
+[[Cartellverband]]	27.524412
+[[Degree of Honor Protective Association]]	25.357244
+[[Pi Alpha Phi]]	25.279337
+[[Lambda Theta Phi]]	24.900406
+[[Metaphysical Society]]	24.771152
+[[Josephite Fathers]]	23.993668
+[[Order of Chosen Friends]]	23.536493
+[[Anglo-French Supreme War Council]]	45.624165
+[[Philippe Pétain]]	43.23113
+[[Fall Rot]]	42.766148
+[[Hubert Lyautey]]	42.460876
+[[War of the Sixth Coalition]]	40.869907
+[[Free French Forces]]	40.861843
+[[How Few Remain]]	40.335167
+[[Argenis]]	39.963875
+[[Charles V of France]]	39.3649
+[[Polish contribution to World War II]]	39.241505
+[[Terra Museum]]	36.875504
+[[Utah Museum of Fine Arts]]	35.43401
+[[Vincent La Gambina]]	31.399769
+[[Appleton Museum of Art]]	31.148907
+[[Cape Cod Museum of Art]]	30.889671
+[[Sally Fletcher-Murchison]]	30.497253
+[[Foundation for the Advancement of Art]]	29.846128
+[[Louvre Atlanta]]	29.756596
+[[Dixon Gallery and Gardens]]	29.625614
+[[Lenox (company)]]	29.51532
+[[Helen Hunt]]	32.12494
+[[Peter Shaffer]]	27.414072
+[[Jack Nicholson]]	24.460928
+[[Billy Wilder]]	24.287003
+[[Barry Morrow]]	24.162825
+[[I. A. L. Diamond]]	23.862793
+[[Marcus Graham]]	23.799023
+[[Clarence Brown]]	23.648636
+[[Anthony Shaffer (writer)]]	23.13261
+[[Tim Ryan (rugby union)]]	23.009668
+[[Nicola Cianfanelli]]	29.780447
+[[Lorenzo Monaco]]	26.369423
+[[Dirk Stoop]]	25.684559
+[[Antonio da Correggio]]	25.682568
+[[Tintoretto]]	25.130571
+[[Francesco di Vannuccio]]	24.292229
+[[Giovanni Battista Gaulli]]	24.043695
+[[Carlo Dolci]]	23.230442
+[[Vecchietta]]	23.18219
+[[Giuseppe Bazzani]]	23.12086
+[[Nellie Y. McKay]]	36.6442
+[[Hattie Gossett]]	31.76226
+[[Armand Lanusse]]	30.82935
+[[Claudette Colvin]]	30.550663
+[[Anne Spencer]]	30.346014
+[[Mary Louise Smith (civil rights activist)]]	29.125908
+[[Marriage squeeze]]	28.623703
+[[Rosa Parks]]	28.537436
+[[Elizabeth Barrett Browning]]	27.72321
+[[Louise Erdrich]]	27.58783
+[[Jamie King (actor)]]	27.758812
+[[Susan Egan]]	27.590664
+[[James Dean]]	27.371996
+[[Michael Crawford]]	26.674015
+[[Celia Johnson]]	26.653591
+[[Dan Shor]]	26.495441
+[[Alexis Denisof]]	25.899874
+[[Bashkir rebellion (1662-1664)]]	25.464724
+[[Len Cariou]]	25.326406
+[[Rutina Wesley]]	25.249632
+[[William Dawes]]	33.84731
+[[Óláfs saga Tryggvasonar]]	29.817463
+[[Paul Revere]]	29.5326
+[[Alan Riach]]	25.640028
+[[Great Moments in History]]	25.176594
+[[Sterling silver]]	25.081802
+[[Murder at Midnight (radio series)]]	24.74411
+[[Paul Revere & the Raiders]]	24.58651
+[[Stacy's Tavern]]	24.200184
+[[Upsall Castle]]	23.966753
+[[Rabbah]]	28.55841
+[[Raichur district]]	26.808136
+[[Historical school of economics]]	23.904303
+[[Ammonoidea]]	23.778625
+[[Sultanate of Darfur]]	21.647923
+[[Principality]]	21.502645
+[[Crisis of Leadership]]	21.117275
+[[Terpstra]]	20.30174
+[[Bank for International Settlements]]	20.237816
+[[Capital Country]]	20.203873
+[[Cold Feet]]	23.52606
+[[Star Wars (radio)]]	22.48059
+[[Symphony No. 2 (Lutosławski)]]	22.447102
+[[Last of the Summer Wine (series 5)]]	22.371037
+[[Bozo the Clown]]	22.346897
+[[House's Head]]	21.942266
+[[The City Harmonic]]	21.808125
+[[Big Finish Productions]]	21.786463
+[[The Defenders (1961 TV series)]]	21.785307
+[[Incident in a Small Town]]	21.65828
+[[Jell-O]]	26.724424
+[[Jelling stones]]	21.33202
+[[Jello mold]]	20.672192
+[[Dietrich Jells]]	17.49473
+[[Cold Stone Creamery]]	15.4902115
+[[Olive loaf]]	15.3702755
+[[Camp Roger]]	14.751251
+[[Given name]]	13.460447
+[[Valery Ortiz]]	13.374502
+[[CJOS-FM]]	13.172615
+[[John Keats]]	48.2085
+[[Ode]]	41.468025
+[[Ozymandias]]	39.69884
+[[Edmund Spenser]]	39.614037
+[[The Faerie Queene]]	34.609276
+[[Spenserian stanza]]	31.76885
+[[Edmund Blunden]]	30.40338
+[[La Belle Dame sans Merci]]	29.953339
+[[Hymn to Intellectual Beauty]]	28.7849
+[[Ode to the West Wind]]	28.327938
+[[Philip IV of France]]	72.14128
+[[Knights Templar]]	55.092598
+[[Louis X of France]]	43.641373
+[[Ferdinand IV of Castile]]	42.802544
+[[Charles IV of France]]	41.168194
+[[Victor Amadeus I, Duke of Savoy]]	40.646343
+[[Philip V of France]]	39.914566
+[[Members of the French Royal Families]]	38.517956
+[[Philip VI of France]]	38.295185
+[[Louis IV, Holy Roman Emperor]]	37.60148
+[[Horace Greeley]]	75.01691
+[[Anti-Masonic Party]]	37.030396
+[[The Day (New London)]]	36.065304
+[[William Henry Harrison]]	33.00344
+[[The Telegraph (Nashua)]]	32.672207
+[[Schuyler Colfax]]	32.420254
+[[Sun-Sentinel]]	30.315813
+[[Literaturnaya Gazeta]]	29.945068
+[[Gringoire (newspaper)]]	29.74699
+[[Austin Blair]]	29.148851
+[[Don't Fight the Feelin']]	30.892624
+[[Steal This Album!]]	27.156065
+[[A Brisk Young Sailor Courted Me]]	27.069168
+[[Heart of Oak]]	26.594666
+[[A Few Questions]]	26.329273
+[[Big Yellow Taxi]]	26.139776
+[[Hurt No More]]	25.963083
+[[Baul]]	25.649298
+[[Je ne parle pas français]]	25.645094
+[[An Invitation to Lubberland]]	25.28345
+[[Aaron Burr]]	39.58855
+[[Richard Mentor Johnson]]	33.35649
+[[Vice President of the United States]]	32.03643
+[[United States presidential election in South Dakota, 1988]]	29.45966
+[[George Clinton (vice president)]]	29.244463
+[[Republican Party presidential primaries, 1976]]	29.00495
+[[Virginia dynasty]]	28.806633
+[[Republic of China presidential election, 2004]]	28.519167
+[[Massachusetts Democratic Party]]	28.161213
+[[Fernando Ferrer]]	27.826674
+[[Government of Kazakhstan]]	29.670507
+[[Keizō Obuchi]]	29.557451
+[[Vladimir Alganov]]	29.519543
+[[Jerzy Hryniewski]]	28.473618
+[[Politics of Russia]]	28.254673
+[[List of Prime Ministers of the United Arab Emirates]]	28.136616
+[[Kuroda Kiyotaka]]	28.12608
+[[August Zaleski]]	28.084667
+[[Active measures]]	27.761059
+[[Prime Minister of France]]	27.655369
+[[Game Change]]	43.735283
+[[Ed O'Callaghan]]	37.47502
+[[Mark McKinnon]]	32.28803
+[[Democratic Party vice presidential candidate selection, 2004]]	31.198963
+[[Shuckin' and jivin']]	26.62015
+[[Joe Lieberman]]	25.956486
+[[Gina Gershon]]	25.85075
+[[Mark Paoletta]]	24.19746
+[[Michael Moore]]	24.134691
+[[Mike Scott (sheriff)]]	24.020678
+[[Ouzo]]	57.850323
+[[Liqueur]]	48.529915
+[[List of cocktails]]	42.032005
+[[List of coffee beverages]]	40.692516
+[[Sicilian cuisine]]	39.432228
+[[Rose water]]	39.049583
+[[Rakı]]	37.368786
+[[Anise]]	37.355904
+[[Feta]]	35.12465
+[[Souvlaki]]	34.346424
+[[Terra Museum]]	39.58165
+[[Utah Museum of Fine Arts]]	39.365543
+[[Appleton Museum of Art]]	38.50239
+[[Cape Cod Museum of Art]]	37.99434
+[[Sally Fletcher-Murchison]]	37.19242
+[[Louvre Atlanta]]	36.613068
+[[Dixon Gallery and Gardens]]	36.549713
+[[Foundation for the Advancement of Art]]	36.27767
+[[Vincent La Gambina]]	34.758965
+[[Collins Center for the Arts]]	34.578228
+[[Feta]]	90.63422
+[[Norwegian cuisine]]	65.01183
+[[English cuisine]]	61.329994
+[[List of cheeses]]	58.52581
+[[Pecorino]]	57.762814
+[[Casu marzu]]	57.26287
+[[Caerphilly cheese]]	56.61769
+[[Stilton cheese]]	56.529343
+[[Roquefort]]	55.9745
+[[Quark (dairy product)]]	55.85006
+[[The Wall Street Journal]]	38.61949
+[[Los Angeles Times]]	33.322468
+[[The Baltimore Sun]]	32.5578
+[[The Atlanta Journal-Constitution]]	31.729385
+[[The Hutchinson News]]	31.476677
+[[Yellow journalism]]	30.952559
+[[Hedrick Smith]]	29.24615
+[[Epigram (newspaper)]]	28.076912
+[[City News Bureau of Chicago]]	28.062178
+[[Sun-Sentinel]]	27.598585
+[[Boot Hill]]	47.6318
+[[Panteón de Dolores]]	36.72911
+[[Almon Brown Strowger]]	34.35045
+[[William S. Gregory]]	34.3153
+[[Cemetery]]	32.9988
+[[Edwin M. Shepard]]	32.28985
+[[Ross Bay Cemetery]]	32.286224
+[[Linden Grove Cemetery]]	31.92147
+[[Catacombs of Paris]]	31.526613
+[[Cementerio Católico San Vicente de Paul]]	31.222124
+[[Nelson Norman]]	27.537659
+[[Nicholas Tooley]]	27.211775
+[[Double play]]	24.972471
+[[Joe Tinker]]	24.806843
+[[Shortstop]]	23.751633
+[[Hughie Jennings]]	23.676807
+[[Robert Armin]]	22.92714
+[[Rudy Hulswitt]]	22.222046
+[[Pedro López (baseball)]]	21.630484
+[[Joseph Taylor (actor)]]	21.38149
+[[Kid Flash]]	31.62341
+[[Non-volatile random-access memory]]	29.825243
+[[Kaley Fountain]]	29.714018
+[[IBM Deep Thunder]]	29.179184
+[[Flash evaporation]]	29.177292
+[[Harold Eugene Edgerton]]	28.986921
+[[Flash memory]]	28.807526
+[[ActionScript]]	28.79491
+[[Adobe Flash]]	28.522072
+[[Enchanted loom]]	28.252394
+[[William B. Saxbe]]	28.412012
+[[Théophile Delcassé]]	25.17723
+[[Helmut Sturm]]	24.004356
+[[1st government of Turkey]]	23.855604
+[[Henry Kissinger]]	22.971636
+[[List of Presidents of the United States by other offices held]]	22.417435
+[[Anton Grylewicz]]	21.175627
+[[Otto Schily]]	21.060658
+[[Carl Albert]]	21.041687
+[[Arthur Sauvé]]	20.996355
+[[Jack Dempsey]]	49.970367
+[[Lou Stillman]]	26.669882
+[[MIM-46 Mauler]]	26.012367
+[[New Jersey Route 37]]	25.729063
+[[Dan Minor]]	25.721827
+[[1977 VFL Grand Final]]	25.175915
+[[Alexander Kolowrat]]	24.01251
+[[Vehicle registration plates of Italy]]	23.720186
+[[Tommy Gibbons]]	22.676815
+[[Edna Ferber]]	22.478565
+[[Jackie Joyner-Kersee]]	57.581398
+[[George Stanich]]	40.763874
+[[University of California, Los Angeles]]	40.09547
+[[Mighty Bruins]]	38.116295
+[[Lyudmyla Blonska]]	37.14191
+[[Cy Young (athlete)]]	36.515232
+[[Greg Foster (hurdler)]]	36.23201
+[[Men's Gym]]	34.33995
+[[Kareem Abdul-Jabbar]]	33.78159
+[[1984 Rose Bowl]]	32.408997
+[[William Dean Singleton]]	15.242945
+[[List of ship names of the Royal Navy]]	14.424173
+[[Marguerite Vogt]]	14.239899
+[[Ajmalan]]	13.955467
+[[Peter Rost (doctor)]]	13.677235
+[[CJOS-FM]]	13.172615
+[[Huntington Learning Center]]	12.8499365
+[[Adelbert von Chamisso]]	12.740971
+[[Luminous Power Technologies]]	12.336685
+[[Triticale]]	12.332479
+[[Axis & Allies]]	26.369751
+[[Microvision]]	26.048855
+[[Battleship (game)]]	24.471096
+[[Vectrex]]	22.7349
+[[Hasbro]]	22.059635
+[[Snakes and Ladders]]	19.320183
+[[Shawn Bradley]]	17.530653
+[[Milton]]	17.310377
+[[Don Secrist]]	16.076086
+[[Little Six Casino]]	15.751441
+[[Roman Catholic Diocese of Beauvais]]	50.70324
+[[Joan of Arc]]	36.861187
+[[Beauvais]]	33.304726
+[[Medieval Inquisition]]	31.35583
+[[Jean Houymet]]	27.060453
+[[Wilfried Louisy-Daniel]]	26.17579
+[[Judoc]]	25.171028
+[[Mount Pelée]]	24.640556
+[[William Elphinstone]]	24.122437
+[[Jean Casimir-Perier]]	23.86795
+[[Animal House]]	47.908062
+[[Bluto]]	28.033892
+[[Flounder]]	24.665758
+[[Scott & Muriel]]	21.121351
+[[Ford Pinto]]	20.834333
+[[Claudia Galli]]	20.810883
+[[Gigging]]	20.05837
+[[A Night to Remember (1942 film)]]	20.039766
+[[Lyall Brooks]]	17.723911
+[[Holiday Hotel]]	17.386599
+[[Oil reserves in Southeast Asia]]	25.95343
+[[Toei Fushigi Comedy Series]]	24.153427
+[[Wolong Temple]]	23.531565
+[[Wolong Panda Reserve]]	22.076809
+[[Wolong Nature Reserve]]	22.076809
+[[Anji County]]	21.355194
+[[Kawaii]]	21.10691
+[[Yansheng Coin]]	21.047161
+[[Xiang Xiang (giant panda)]]	20.513283
+[[Edward J. Grug III]]	20.450035
+[[United Nations General Assembly Resolution 505]]	43.624237
+[[Taiwan Relations Act]]	40.71777
+[[Lin Sen]]	38.909603
+[[Taiwanization]]	37.611053
+[[One-China policy]]	36.92351
+[[Iraq disarmament crisis]]	36.418453
+[[History of the Republic of China]]	36.12582
+[[Taiwan]]	35.781124
+[[United Nations Security Council Resolution 940]]	35.536823
+[[Political status of Taiwan]]	35.211433
+[[Monrovia]]	33.820385
+[[Americo-Liberian]]	33.160915
+[[Yablanski House]]	30.017681
+[[History of Liberia]]	29.88242
+[[William R. Tolbert, Jr.]]	28.849173
+[[Foreign relations of Liberia]]	28.137606
+[[Flag of Liberia]]	28.082552
+[[Dutchess Company Superintendent's House]]	27.438383
+[[Glenview Mansion]]	26.903475
+[[Liberia]]	26.81158
+[[Heather Locklear]]	38.703125
+[[Melrose Place]]	35.323517
+[[Grant Show]]	34.241318
+[[Susan Egan]]	27.723745
+[[Courtney Thorne-Smith]]	27.041351
+[[Donna Vivino]]	26.861818
+[[Lisa Rinna]]	25.854532
+[[Pearl Eaton]]	25.767426
+[[Legally Blonde (musical)]]	25.612202
+[[Thomas Calabro]]	25.317736
+[[Mayim Bialik]]	73.425186
+[[Amy Fowler]]	56.22293
+[[Mighty Bruins]]	39.17583
+[[Howard Wolowitz]]	35.729755
+[[Kamran Khavarani]]	33.697315
+[[Andrea M. Ghez]]	32.072014
+[[Raj Koothrappali]]	31.899712
+[[Steven Loza]]	31.734701
+[[University of California, Los Angeles]]	31.72307
+[[Rover (song)]]	29.861279
+[[James M. Cox]]	39.269302
+[[United States presidential election in Massachusetts, 1972]]	39.089
+[[Michael Dukakis]]	38.601326
+[[Nebraska's 3rd congressional district election, 2006]]	38.345596
+[[Lloyd Bentsen]]	38.114094
+[[Wendell Willkie]]	36.78114
+[[United States presidential election in Rhode Island, 1964]]	36.698784
+[[Henry M. Jackson]]	36.31042
+[[Ralph Nader presidential campaign, 2000]]	36.15154
+[[Thomas E. Dewey]]	35.232018
+[[B'nai B'rith]]	34.10576
+[[Jacob and Esau]]	31.98603
+[[Isaac Morley]]	27.646824
+[[Christianity and Judaism]]	27.547436
+[[Samuel Hirsch]]	26.958591
+[[Jews as the chosen people]]	26.453884
+[[Isaac Luria]]	25.049314
+[[Beit Ha'Chidush]]	24.72907
+[[Kaddish]]	24.054417
+[[History of the Jews in Colonial America]]	24.048859
+[[Bret Harte]]	56.693226
+[[Bret Harte Union High School]]	37.013557
+[[Joaquin Miller]]	35.19962
+[[Dave Meltzer]]	33.998978
+[[A Defence of General Funston]]	33.467762
+[[A Connecticut Yankee (musical)]]	32.845814
+[[Imperial Bedrooms]]	30.60531
+[[1860 Wiyot Massacre]]	30.51949
+[[Adventures of Huckleberry Finn]]	30.304728
+[[Lost Cement Mine]]	30.139477
+[[Gaurishankar Conservation Area]]	25.2449
+[[Alaungdaw Kathapa National Park]]	19.830729
+[[Studland and Godlingston Heath National Nature Reserve]]	19.549377
+[[Lizard]]	19.442888
+[[Bloom County]]	18.92571
+[[Lizard Head Wilderness]]	18.909065
+[[Varan]]	18.844233
+[[Indonesia–European Union relations]]	18.477116
+[[Komodo dragon]]	18.38194
+[[Ditchingham]]	18.085361
+[[Dan Budnik]]	38.845226
+[[Louvre Atlanta]]	37.623894
+[[Terra Museum]]	33.614937
+[[Utah Museum of Fine Arts]]	33.38871
+[[Appleton Museum of Art]]	32.65021
+[[Cape Cod Museum of Art]]	32.36983
+[[Sally Fletcher-Murchison]]	31.471474
+[[Dixon Gallery and Gardens]]	30.9772
+[[Foundation for the Advancement of Art]]	30.428604
+[[Mosaic Templars Cultural Center]]	30.016228
+[[Schweizer SGS 1-24]]	16.850203
+[[Mathieu Dossevi]]	13.574363
+[[Them Again]]	13.470951
+[[Marley Marl]]	13.374601
+[[Remo Brindisi]]	13.228902
+[[Akio Takamori]]	13.010184
+[[Brian Brown (musician)]]	13.008918
+[[Judith Barsi]]	12.9612665
+[[Tim Higgins]]	12.939068
+[[Terah]]	12.776836
+[[Change ringing]]	30.129135
+[[The Salvation Army]]	29.102718
+[[Pró-Vida]]	27.087683
+[[Donation]]	25.546398
+[[Capital (radio network)]]	23.75611
+[[Campanology]]	23.604313
+[[Aloysius Society]]	23.095798
+[[GiveWell]]	22.403524
+[[Goodwill Industries]]	22.23723
+[[Deg Tegh Fateh]]	22.167662
+[[Olympic Stadium (Phnom Penh)]]	47.35208
+[[Transport in Cambodia]]	46.85757
+[[Norodom Buppha Devi]]	43.466698
+[[Khmer Rouge]]	40.023125
+[[Highways to a War]]	39.95008
+[[Telecommunications in Cambodia]]	38.32342
+[[Yesudasan]]	36.54583
+[[Coppersmith Barbet]]	36.487705
+[[History of Cambodia]]	36.47623
+[[Operation Prek Ta]]	36.246
+[[Politics of Cambodia]]	53.12137
+[[Norodom Buppha Devi]]	45.43769
+[[List of heads of state of Cambodia]]	42.713787
+[[History of Cambodia]]	40.810337
+[[Reamker]]	35.892212
+[[Capital of the Netherlands]]	35.452766
+[[Visegrád]]	34.596344
+[[Principality]]	34.164024
+[[Coudenberg]]	33.35294
+[[Monarchy of Sweden]]	33.16007
+[[Theobald von Bethmann-Hollweg]]	33.392136
+[[Enabling Act of 1933]]	33.17541
+[[Reichstag Fire Decree]]	32.043182
+[[Heinrich Brüning]]	31.067827
+[[Georg Michaelis]]	30.636309
+[[Fritz Sauckel]]	30.170855
+[[Wilhelm II, German Emperor]]	29.78151
+[[Reichstag]]	28.201435
+[[Otto von Bismarck]]	27.955658
+[[Das Rheingold]]	27.323133
+[[Crest (toothpaste)]]	27.866142
+[[Toothpaste]]	20.286276
+[[Epeus]]	15.118728
+[[Air India (football club)]]	14.373302
+[[CJOS-FM]]	13.172615
+[[Saint Louis Athletica]]	13.041724
+[[Huntington Learning Center]]	12.8499365
+[[Crested Shelduck]]	12.672967
+[[Luminous Power Technologies]]	12.336685
+[[China Merchants Holdings (International)]]	12.210772
+[[Joan Plowright]]	27.512102
+[[Jimmy Harry]]	27.48569
+[[Miranda Richardson]]	26.00844
+[[Rita Blanco]]	25.918629
+[[Paul Le Mat]]	25.892303
+[[Olympia Dukakis]]	25.68709
+[[Chaim Topol]]	25.114616
+[[Geoffrey Rush]]	25.03657
+[[Pelle the Conqueror]]	24.931664
+[[Warren Beatty]]	24.825172
+[[Urbanization in Africa]]	36.11048
+[[Port Elizabeth Airport]]	32.573692
+[[Malabo]]	31.81269
+[[Port Elizabeth]]	30.412172
+[[Portuguese Mozambique]]	30.384115
+[[Pietermaritzburg]]	30.357468
+[[Dakar]]	30.017832
+[[Transport in Lesotho]]	29.901821
+[[Bloemfontein]]	29.068172
+[[Southern Africa]]	28.866667
+[[Them Again]]	17.441189
+[[Fontana Records]]	16.506836
+[[Juan López Fontana]]	15.438308
+[[Fred Davis (snooker player)]]	15.417603
+[[Cliff Thorburn]]	15.323864
+[[Black Milk]]	15.272857
+[[1983 BDO World Darts Championship]]	15.172276
+[[2009 Turkish Cup Final]]	14.9416485
+[[Jimmy Somerville]]	14.751599
+[[Kelowna Spartans]]	14.290995
+[[Rivers of Life, Oxford]]	30.07219
+[[St. Mary, Our Lady of Mount Carmel Cathedral (Gaylord, Michigan)]]	26.455545
+[[St. Columba's Church (Hopewell Junction, New York)]]	25.24276
+[[Lyne Kirk]]	25.069977
+[[Half Way Tree]]	24.701372
+[[Cathedral of Our Lady of the Rosary (Duluth, Minnesota)]]	24.427467
+[[Webb City High School (Missouri)]]	23.31023
+[[St. John the Baptist Church, Mumbai]]	22.92277
+[[Cathedral of the Immaculate Conception (Lake Charles, Louisiana)]]	22.818048
+[[Conwal Parish Church (Church of Ireland)]]	22.696564
+[[Spoke]]	38.49001
+[[De Mearmin, Dokkum]]	36.117897
+[[De Poelen, Dronrijp]]	34.54534
+[[Wheel]]	32.234795
+[[Chevrolet Celebrity]]	30.28513
+[[Chariot]]	30.102537
+[[Penny-farthing]]	29.988575
+[[SCOA-P wheel]]	29.570383
+[[Webster's Mill, Framsden]]	29.062593
+[[Emblem of Angola]]	28.3673
+[[The Atlanta Journal-Constitution]]	38.545746
+[[Stylish Century]]	21.179016
+[[Rome News-Tribune]]	21.011492
+[[The Five Orange Pips]]	20.674212
+[[Metropolis Daily]]	19.96058
+[[Naye Prese]]	19.806381
+[[Daily Worker]]	17.919044
+[[Wallace Carlson]]	17.85323
+[[Sketches by Boz]]	17.703577
+[[Geertruida Middendorp]]	17.657911
+[[Mighty Bruins]]	38.57285
+[[Rob Reiner]]	36.96144
+[[Ron Pitts]]	34.716675
+[[University of California, Los Angeles]]	33.878635
+[[Animal Crackers (film)]]	33.025505
+[[Jason Bell (American football)]]	32.004192
+[[Kareem Abdul-Jabbar]]	30.12596
+[[1984 Rose Bowl]]	29.899088
+[[Cy Young (athlete)]]	29.847448
+[[Julie Dash]]	29.332542
+[[Broad-faced potoroo]]	31.530508
+[[Borhyaenidae]]	27.654856
+[[Stejneger's beaked whale]]	22.785069
+[[Marsupial mole]]	22.50814
+[[Kangaroo]]	21.595095
+[[Yungavolucris]]	21.358383
+[[Gray's beaked whale]]	20.834106
+[[Possum]]	20.527277
+[[Fauna of Australia]]	20.323753
+[[Flinders Ranges National Park]]	20.098793
+[[Cape Cod Museum of Art]]	35.463577
+[[Terra Museum]]	35.271843
+[[Collins Center for the Arts]]	34.668556
+[[Utah Museum of Fine Arts]]	34.362762
+[[Sally Fletcher-Murchison]]	34.328217
+[[Mosaic Templars Cultural Center]]	31.579653
+[[Appleton Museum of Art]]	31.148907
+[[Hancock House (Ticonderoga, New York)]]	30.512253
+[[Foundation for the Advancement of Art]]	29.846128
+[[Louvre Atlanta]]	29.756596
+[[Vicente Genaro de Quesada]]	38.377937
+[[Godfrey Macdonald, 3rd Baron Macdonald of Slate]]	30.360167
+[[Alexander Gordon (British cavalry officer)]]	26.797365
+[[Ferdinand VII of Spain]]	26.741484
+[[Battle of Roliça]]	26.617443
+[[War of the Sixth Coalition]]	26.264105
+[[Napoleonic Wars]]	24.955303
+[[Manuel Freire de Andrade]]	23.265438
+[[Rioseco Abbey]]	22.500889
+[[FitzRoy Somerset, 1st Baron Raglan]]	22.292643
+[[American National Exhibition]]	47.567776
+[[Yuri Zhukov (journalist)]]	30.108307
+[[Cuban missile crisis]]	29.176281
+[[Woman of the Year]]	28.173822
+[[Robert Frank]]	27.148699
+[[The Watermelon Woman]]	26.841038
+[[The Book of Salt]]	26.78757
+[[Davis Phinney]]	25.647322
+[[Esfir Shub]]	25.532438
+[[Pollock (film)]]	25.368149
+[[Kentucky and Virginia Resolutions]]	69.58978
+[[Second Continental Congress]]	43.058556
+[[Richard Henry Lee]]	37.351685
+[[Stamp Act 1765]]	36.299873
+[[Patrick Henry]]	35.08099
+[[Copyright Act of 1790]]	34.717243
+[[History of slavery in Indiana]]	34.26101
+[[Big Sandy River (Ohio River)]]	33.393696
+[[Bourbon whiskey]]	32.923515
+[[Congressional Budget and Impoundment Control Act of 1974]]	32.897064
+[[Golan Heights]]	47.105705
+[[Camp David Accords]]	42.78788
+[[Terje Rød-Larsen]]	42.782616
+[[Presbyterian Church (USA) disinvestment from Israel controversy]]	41.497757
+[[Israeli–Palestinian conflict]]	40.556496
+[[Annexation]]	38.996502
+[[United Nations Partition Plan for Palestine]]	38.876247
+[[Israel and legitimacy]]	38.791187
+[[1949 Armistice Agreements]]	38.615784
+[[1982 Lebanon War]]	38.460705
+[[Cathedral of the Nativity in Suzdal]]	23.805683
+[[Hayward City Hall]]	22.284842
+[[Hudson County Courthouse]]	22.28235
+[[Evanston Davis Street (Metra station)]]	20.657885
+[[Kashmir white granite]]	20.163809
+[[United States House of Representatives elections in Wisconsin, 2006]]	19.692833
+[[Dudley Tower]]	19.628038
+[[Cyclops (roller coaster)]]	19.471228
+[[Martin Bushnell House]]	18.59298
+[[USA Trains]]	18.217274
+[[Olympia Dukakis]]	28.921177
+[[Geoffrey Rush]]	28.080568
+[[Jim Broadbent]]	27.99873
+[[Joan Plowright]]	27.2341
+[[Helen Hunt]]	27.141403
+[[Miranda Richardson]]	26.364912
+[[Rita Blanco]]	26.208542
+[[Warren Beatty]]	25.256422
+[[Cybill]]	25.252056
+[[Edward James Olmos]]	24.975391
+[[Guadalajara Zoo]]	28.187359
+[[Falconry]]	27.792904
+[[United States Fish and Wildlife Service]]	27.787815
+[[Tundi Spring Agardy]]	27.216902
+[[Kratié (town)]]	27.003323
+[[Steve Lombardi]]	26.557426
+[[Red wolf]]	26.3337
+[[Maasai Mara]]	26.00178
+[[Lahore Zoo]]	25.82158
+[[Red Falcons]]	25.625332
+[[Axios (acclamation)]]	25.776796
+[[Alan Riach]]	25.640028
+[[Kimberly Johnson]]	24.327703
+[[In a Station of the Metro]]	23.32716
+[[Axios (organization)]]	22.81266
+[[Agis of Argos]]	20.488876
+[[David Jones (artist-poet)]]	20.154362
+[[Ernest Thayer]]	19.955727
+[[Francis Saltus Saltus]]	19.75693
+[[Dennis Cooley]]	19.606298
+[[USS Arizona Memorial]]	40.84198
+[[Thomas W. Lawson (ship)]]	35.49416
+[[Margate Surfboat]]	35.157852
+[[Frank Newcomb]]	34.41578
+[[Edwin M. Shepard]]	31.930172
+[[Full-rigged ship]]	31.557741
+[[George Henry Preble]]	31.38389
+[[Panayis Athanase Vagliano]]	31.33715
+[[USCGC Mohawk (WPG-78)]]	31.332
+[[USS Irene Forsyte (IX-93)]]	30.967072
+[[Governor General of Canada]]	32.709064
+[[Parliament of Canada]]	29.576221
+[[At Her Majesty's pleasure]]	29.24187
+[[Alma Mater Society of Queen's University]]	28.713694
+[[Order of Military Merit (Canada)]]	28.528622
+[[Premier (Canada)]]	28.467823
+[[List of current Canadian first ministers]]	27.988447
+[[Charles Tupper]]	27.798561
+[[House of Commons of Canada]]	27.510643
+[[Queen's peace]]	27.485363
+[[Sacred Heart Catholic Church (McCartyville, Ohio)]]	19.14613
+[[6th century BC]]	17.242405
+[[Academy of the Sacred Heart (New Orleans)]]	17.068195
+[[Newtonville United Methodist Church]]	16.280684
+[[Stockbridge Village]]	16.247116
+[[Church of St. Dismas, the Good Thief]]	16.159843
+[[Inertron]]	15.584834
+[[7th century BC]]	14.833246
+[[Bovinae]]	14.7666855
+[[Big Bottom Farm]]	14.491958
+[[Fifth Beatle]]	40.5208
+[[Love (The Beatles album)]]	33.597115
+[[George Martin]]	33.581352
+[[Twist and Shout]]	33.21673
+[[Help! (album)]]	33.081898
+[[Four by the Beatles]]	32.77827
+[[Beatles for Sale]]	32.66303
+[[The Beatles (album)]]	32.530556
+[[With the Beatles]]	32.09916
+[[1 (The Beatles album)]]	32.06701
+[[St. Mary, Our Lady of Mount Carmel Cathedral (Gaylord, Michigan)]]	27.003157
+[[Cathedral of the Sacred Heart (San Angelo, Texas)]]	26.895536
+[[St. John the Evangelist Catholic Church (Indianapolis, Indiana)]]	26.56024
+[[St. Columba's Church (Hopewell Junction, New York)]]	26.407827
+[[Cathedral of Our Lady of the Rosary (Duluth, Minnesota)]]	25.80953
+[[Cathedral of the Immaculate Conception (Lake Charles, Louisiana)]]	25.349644
+[[Cathedral Basilica of St. Joseph (San Jose, California)]]	23.110138
+[[St. Vincent de Paul Church (Manhattan)]]	23.013918
+[[St. Joseph's Chapel (Clinton Corners, New York)]]	22.782703
+[[St Matthais Old Church]]	22.201122
+[[Melilla]]	30.586914
+[[Leo Africanus]]	29.566877
+[[Perejil Island]]	29.297056
+[[Casablanca]]	28.59362
+[[History of Western Sahara]]	28.494986
+[[Oran]]	27.655378
+[[Ismail Ibn Sharif]]	27.241055
+[[Londrina]]	27.225857
+[[Peñón de Vélez de la Gomera]]	26.614496
+[[Demographics of Western Sahara]]	26.55326
+[[Michelle Obama]]	27.143402
+[[Sasha Pieterse]]	26.68365
+[[Fortune's Fool (novel)]]	23.796717
+[[Daughters of the Dust]]	23.618923
+[[Liz Malia]]	23.487123
+[[Hilary Rosen]]	23.474417
+[[Lenore Skenazy]]	22.577255
+[[Claudette Colvin]]	22.427917
+[[The Watermelon Woman]]	22.408155
+[[Octavia E. Butler]]	22.37608
+[[R. v. Owen]]	29.699183
+[[Miller v. California]]	29.351862
+[[Canada v. Schmidt]]	29.20226
+[[Frendak v. United States]]	28.65661
+[[Ford v. Quebec (Attorney General)]]	28.298302
+[[Martin v. Hunter's Lessee]]	28.068476
+[[Morris Pashman]]	28.04584
+[[Gideon v. Wainwright]]	27.73538
+[[Mostyn Hanger]]	27.479994
+[[Rochin v. California]]	27.43999
+[[Little People]]	36.774387
+[[Toy Town Museum]]	32.594387
+[[Buzzy Bee]]	28.142656
+[[Jean-Pierre Abbat]]	23.445896
+[[Hasbro]]	20.918077
+[[Mattel]]	20.802021
+[[Arthur Treacher's]]	16.872765
+[[Edward Minchen]]	16.385002
+[[HyperScan]]	16.344364
+[[Baby Bach]]	15.486486
+[[True Blood]]	24.878378
+[[Anna Paquin]]	24.097378
+[[Jimmy Harry]]	23.244074
+[[Joan Plowright]]	22.392656
+[[Olympia Dukakis]]	20.616064
+[[Miranda Richardson]]	20.499897
+[[Rita Blanco]]	20.324516
+[[Paul Le Mat]]	20.175083
+[[Geoffrey Rush]]	19.78072
+[[Chaim Topol]]	19.660496
+[[The Other Man's Grass Is Always Greener]]	15.21139
+[[Squeegee man]]	14.597206
+[[Locke the Superman]]	13.959262
+[[Flag of Paraguay]]	13.562258
+[[Arthur Porges]]	13.484486
+[[Them Again]]	13.470951
+[[Snub dodecahedron]]	13.2050705
+[[The Psychedelic Furs]]	13.149831
+[[The Crystal Palace (novel)]]	13.102102
+[[Kirby & the Amazing Mirror]]	13.0304165
+[[Medgar Evers]]	50.01304
+[[Bedford Hills Correctional Facility for Women]]	44.684135
+[[The Help]]	39.722733
+[[The Watermelon Woman]]	37.46679
+[[Myrna Loy]]	37.302685
+[[A Crush on You]]	37.152824
+[[All That Heaven Allows]]	36.88033
+[[Choke (novel)]]	36.400375
+[[Vincent Johnson]]	36.361427
+[[Hush (1998 film)]]	35.783455
+[[Hogan's Heroes]]	44.5839
+[[John Carter (ER)]]	25.35447
+[[City Council of Green River, Wyoming]]	19.538786
+[[List of Pennsylvania State University residence halls]]	19.533218
+[[Libby Zion Law]]	18.939386
+[[Camp David]]	18.428793
+[[Barbara Anderson (actress)]]	18.356075
+[[Tipton-Haynes State Historic Site]]	17.866268
+[[Carter Covington]]	17.503252
+[[Stalag VIII-F]]	17.418291
+[[I Love the '80s Strikes Back]]	16.173975
+[[The Other Man's Grass Is Always Greener]]	14.471472
+[[Them Again]]	13.470951
+[[Exequiel Benavídez]]	13.305751
+[[Barry Banks (rugby league)]]	12.9987335
+[[I Love the '80s (U.S. TV series)]]	12.902937
+[[Shelly Jamison]]	12.665939
+[[Keith Kessinger]]	12.642725
+[[Gwendoline Ruais]]	12.600936
+[[Erika Eleniak]]	12.593601
+[[List of British Columbia provincial highways]]	24.146196
+[[Zhang Binglin]]	21.297737
+[[Bernhard Karlgren]]	21.169556
+[[Numerology]]	20.991402
+[[Tōten Miyazaki]]	20.91186
+[[Zitong County]]	20.560268
+[[Ezra]]	20.525225
+[[Chinese philosophy]]	20.516048
+[[Zhu Rong (god)]]	20.295895
+[[King Ling of Zhou]]	20.243563
+[[Home Fleet]]	39.68652
+[[Keith Park]]	35.7742
+[[Edwyn Alexander-Sinclair]]	34.807087
+[[George Hyde (admiral)]]	33.576168
+[[Sagar Pawan]]	33.12711
+[[Battle of the Philippine Sea]]	32.84962
+[[George Nares]]	32.64916
+[[Bombay Flying Club]]	32.606876
+[[Alan Shepard]]	32.20895
+[[Wilson Flagg]]	32.147556
+[[Kentucky and Virginia Resolutions]]	44.536415
+[[Equal Rights Amendment]]	40.061386
+[[Lambeth Conferences]]	38.791748
+[[Henry S. Foote]]	38.565468
+[[Pledge of Allegiance]]	37.63936
+[[International Meridian Conference]]	37.58063
+[[Emancipation Proclamation]]	37.56462
+[[Second Continental Congress]]	37.515
+[[Quit India Movement]]	37.255997
+[[Israeli Declaration of Independence]]	36.671406
+[[Candle]]	27.485552
+[[Alan Riach]]	25.640028
+[[Betty Thatcher]]	25.003038
+[[Hanukkah]]	23.329075
+[[Dover Beach]]	23.287825
+[[Edmund Blunden]]	22.902227
+[[Sanctuary lamp]]	22.230368
+[[Forneus]]	22.168768
+[[Taps]]	21.607376
+[[Ziemassvētki]]	21.549192
+[[Olympia Dukakis]]	26.03348
+[[Cybill]]	25.524837
+[[Tom Wilkinson]]	23.741253
+[[Delores Taylor]]	23.088623
+[[Matt LeBlanc]]	22.760485
+[[Miranda Richardson]]	22.283955
+[[Larry McMurtry]]	22.16741
+[[Christopher McQuarrie]]	22.139448
+[[Carol Kane]]	22.06859
+[[Jessica Lange]]	21.893377
+[[Adriane Lenox]]	33.14046
+[[30 Rock (season 6)]]	33.134808
+[[Plunkett Donaghy]]	32.240227
+[[The Teeth of the Tiger]]	30.246752
+[[Russell Terrier]]	28.105759
+[[Captain Jack's Stronghold]]	27.317696
+[[Cleveland Panthers]]	26.587318
+[[Wolfman Jack]]	26.13982
+[[Malice (film)]]	25.917147
+[[Jumpin' Jack Flash]]	25.57068
+Original query: Several bridges, including El Tahrir, cross the Nile in this capital AFRICAN CITIES
+Tokenized query: sever bridg includ El Tahrir cross Nile thi capit AFRICAN CITIES
+Potential Question: Cairo, with score 31.145782470703125
+Potential Question: Nile, with score 30.416301727294922
+Potential Question: Khartoum, with score 30.22048568725586
+Potential Question: Kosti, Sudan, with score 28.548553466796875
+Potential Question: John Hanning Speke, with score 26.599994659423828
+Potential Question: Omdurman, with score 25.097278594970703
+Potential Question: Nile perch, with score 25.071748733520508
+Potential Question: Faiyum Oasis, with score 24.183555603027344
+Potential Question: Blue Nile, with score 23.959911346435547
+Potential Question: Crossing the Red Sea, with score 23.911306381225586
+Original query: The Taft Museum of Art STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Tokenized query: Taft Museum Art STATE art museum -lrb- Alex museum state -rrb-
+Potential Question: Terra Museum, with score 39.58164978027344
+Potential Question: Utah Museum of Fine Arts, with score 39.365543365478516
+Potential Question: Appleton Museum of Art, with score 38.50239181518555
+Potential Question: Cape Cod Museum of Art, with score 37.99433898925781
+Potential Question: Sally Fletcher-Murchison, with score 37.192420959472656
+Potential Question: Louvre Atlanta, with score 36.613067626953125
+Potential Question: Dixon Gallery and Gardens, with score 36.549713134765625
+Potential Question: Foundation for the Advancement of Art, with score 36.277671813964844
+Potential Question: Vincent La Gambina, with score 34.75896453857422
+Potential Question: Collins Center for the Arts, with score 34.57822799682617
+Original query: 1980: "Rock With You" '80s NO.1 HITMAKERS
+Tokenized query: 1980 Rock '80 no. 1 hitmak
+Potential Question: Fontana Records, with score 16.55824851989746
+Potential Question: College rock, with score 16.0478572845459
+Potential Question: WTMX, with score 15.893906593322754
+Potential Question: Toronto Rocks, with score 15.682504653930664
+Potential Question: Dream, After Dream, with score 15.227875709533691
+Potential Question: UEFA Euro 1980 qualifying Group 1, with score 15.03868293762207
+Potential Question: Alternative country, with score 14.993636131286621
+Potential Question: Time to Burn (Giant album), with score 14.556994438171387
+Potential Question: 1980s, with score 14.147056579589844
+Potential Question: Rock Odyssey, with score 14.077845573425293
+Original query: In 2010: As Sherlock Holmes on film GOLDEN GLOBE WINNERS
+Tokenized query: 2010 Sherlock Holm film GOLDEN GLOBE winner
+Potential Question: I. A. L. Diamond, with score 38.418060302734375
+Potential Question: Sherlock Holmes, with score 32.77482223510742
+Potential Question: Hans Zimmer, with score 31.26064682006836
+Potential Question: Irene Adler, with score 30.6412353515625
+Potential Question: The Five Orange Pips, with score 30.042993545532227
+Potential Question: Jeremy Brett, with score 29.371562957763672
+Potential Question: Edward Hardwicke, with score 28.723276138305664
+Potential Question: Basil Rathbone, with score 28.692203521728516
+Potential Question: List of actors who have played Sherlock Holmes, with score 28.43836212158203
+Potential Question: Celeste Holm, with score 28.26079750061035
+Original query: Italian for "leader", it was especially applied to Benito Mussolini RANKS & TITLES
+Tokenized query: italian leader especi appli Benito Mussolini RANKS TITLES
+Potential Question: Duce, with score 40.30076599121094
+Potential Question: Fascist and anti-Fascist violence in Italy (1919–26), with score 32.80826187133789
+Potential Question: Romano Mussolini, with score 31.920883178710938
+Potential Question: Clara Petacci, with score 31.71895980834961
+Potential Question: Predappio, with score 30.994972229003906
+Potential Question: Alessandra Mussolini, with score 29.521604537963867
+Potential Question: Esercito Nazionale Repubblicano, with score 29.416542053222656
+Potential Question: Fascism in Europe, with score 29.350906372070312
+Potential Question: Agostino Lanzillo, with score 28.310306549072266
+Potential Question: Michele Bianchi, with score 28.13953399658203
+Original query: 1922: It's the end of an empire! This empire, in fact! After 600 years, it's goodbye, this, hello, Turkish Republic! 1920s NEWS FLASH!
+Tokenized query: 1922 end empir thi empir fact 600 year goodby thi hello turkish Republ 1920 new flash
+Potential Question: Mehmed VI, with score 38.08476638793945
+Potential Question: Far Eastern Republic, with score 34.8925895690918
+Potential Question: Liberalism in Turkey, with score 32.476280212402344
+Potential Question: History of Armenia, with score 32.38938522338867
+Potential Question: 1920s, with score 32.11927795410156
+Potential Question: Italian Empire, with score 31.923194885253906
+Potential Question: Enosis, with score 31.512269973754883
+Potential Question: Hohenzollern-Sigmaringen, with score 31.250225067138672
+Potential Question: 6th century BC, with score 31.15416717529297
+Potential Question: Abdülmecid I, with score 31.098121643066406
+Original query: Don Knotts took over from Norman Fell as the resident landlord on this sitcom THE RESIDENTS
+Tokenized query: Don Knott Norman Fell resid landlord thi sitcom resid
+Potential Question: Don Knotts, with score 43.46615982055664
+Potential Question: Crinkle Crags, with score 28.27958869934082
+Potential Question: Buttermere, with score 23.458526611328125
+Potential Question: Three's Company, with score 23.28770637512207
+Potential Question: Old Man of Coniston, with score 22.8942813873291
+Potential Question: Walter Knott, with score 21.961061477661133
+Potential Question: Cliveden set, with score 21.915693283081055
+Potential Question: San Pedro, Laguna, with score 21.879308700561523
+Potential Question: Shikumen, with score 20.265392303466797
+Potential Question: New College, Toronto, with score 19.712995529174805
+Original query: The dominant paper in our nation's capital, it's among the top 10 U.S. papers in circulation NEWSPAPERS
+Tokenized query: domin paper nation 's capit 10 U.S. paper circul newspap
+Potential Question: Media of the United States, with score 36.10253143310547
+Potential Question: Sun-Sentinel, with score 35.227169036865234
+Potential Question: Star Tribune, with score 35.22144317626953
+Potential Question: Daily Worker, with score 33.23794937133789
+Potential Question: The New York Sun, with score 31.583290100097656
+Potential Question: Reforma, with score 31.222782135009766
+Potential Question: Houston Chronicle, with score 30.765512466430664
+Potential Question: Al-Quds Al-Arabi, with score 30.60817527770996
+Potential Question: De Volkskrant, with score 30.39162826538086
+Potential Question: List of newspapers in Hong Kong, with score 30.36636734008789
+Original query: Not to be confused with karma, krama is a popular accessory sold in cambodia; the word means "scarf" in this national language of Cambodia CAMBODIAN HISTORY & CULTURE
+Tokenized query: confus karma krama popular accessori sell cambodia word mean scarf thi nation languag Cambodia CAMBODIAN HISTORY CULTURE
+Potential Question: Politics of Cambodia, with score 52.792320251464844
+Potential Question: History of Cambodia, with score 44.93825149536133
+Potential Question: Norodom Buppha Devi, with score 44.04608154296875
+Potential Question: Economy of Cambodia, with score 43.568668365478516
+Potential Question: Khmer Rouge, with score 42.02086639404297
+Potential Question: Demographics of Cambodia, with score 41.07393264770508
+Potential Question: Cambodia National and Provincial Resources Data Bank, with score 41.01546096801758
+Potential Question: Vichara Dany, with score 40.16633605957031
+Potential Question: American Assistance for Cambodia, with score 39.91199493408203
+Potential Question: Chaeng Mean Chey, with score 39.67887878417969
+Original query: In an 1819 letter Keats wrote that this lord & poet "cuts a figure, but he is not figurative" THE QUOTABLE KEATS
+Tokenized query: 1819 letter Keat write thi lord poet cut figur figur QUOTABLE KEATS
+Potential Question: John Keats, with score 51.10905456542969
+Potential Question: La Belle Dame sans Merci, with score 39.21717071533203
+Potential Question: Hyperion (poem), with score 31.142240524291992
+Potential Question: Didymus Chalcenterus, with score 29.400896072387695
+Potential Question: Surdas, with score 27.553049087524414
+Potential Question: Blank verse, with score 27.400245666503906
+Potential Question: Thomas Moore, with score 26.931413650512695
+Potential Question: Lord Byron, with score 26.83156394958496
+Potential Question: Edmund Spenser, with score 26.789669036865234
+Potential Question: James Howell, with score 26.1153621673584
+Original query: Bessie Coleman, the first black woman licensed as a pilot, landed a street named in her honor at this Chicago airport AFRICAN-AMERICAN WOMEN
+Tokenized query: Bessi Coleman black woman licens pilot land street honor thi Chicago airport african-american woman
+Potential Question: Bessie Coleman, with score 77.9646224975586
+Potential Question: Pilot (aeronautics), with score 40.841976165771484
+Potential Question: Ida Cox, with score 38.10890579223633
+Potential Question: Victoria Earle Matthews, with score 37.35342025756836
+Potential Question: Wilfandel, with score 35.751468658447266
+Potential Question: Within Our Gates, with score 34.66376876831055
+Potential Question: Edith S. Sampson, with score 34.441871643066406
+Potential Question: Lucille Bogan, with score 34.132442474365234
+Potential Question: Jean Burns, with score 34.106468200683594
+Potential Question: Zara Wright, with score 33.418819427490234
+Original query: This New Orleans venue reopened Sept. 25, 2006 COMPLETE DOM-INATION(Alex: Not "domination.")
+Tokenized query: thi New Orlean venu reopen Sept. 25 2006 COMPLETE DOM-INATION -lrb- Alex domin -rrb-
+Potential Question: Snug Harbor (jazz club), with score 33.50215530395508
+Potential Question: Terra Informa, with score 21.107961654663086
+Potential Question: Dan Storper, with score 20.164714813232422
+Potential Question: New Orleans rhythm and blues, with score 19.67066764831543
+Potential Question: Mount Carmel Academy (Louisiana), with score 18.719493865966797
+Potential Question: 2006 Centrobasket, with score 18.645151138305664
+Potential Question: The New Daisy Theatre, with score 18.024520874023438
+Potential Question: Mark Light Field at Alex Rodriguez Park, with score 17.56967544555664
+Potential Question: 2008 Tampa Bay Storm season, with score 17.539072036743164
+Potential Question: Defending the Undefendable, with score 16.973331451416016
+Original query: In this Finnish city, the Lutheran Cathedral, also known as Tuomiokirkko CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+Tokenized query: thi finnish citi Lutheran Cathedr know Tuomiokirkko CAPITAL CITY CHURCHES -lrb- Alex church tell capit citi locat -rrb-
+Potential Question: Cathedral of Our Lady of the Rosary (Duluth, Minnesota), with score 32.55625534057617
+Potential Question: St. Mary, Our Lady of Mount Carmel Cathedral (Gaylord, Michigan), with score 31.777677536010742
+Potential Question: Cathedral of the Sacred Heart (San Angelo, Texas), with score 30.01589584350586
+Potential Question: Cathedral of the Immaculate Conception (Lake Charles, Louisiana), with score 28.716800689697266
+Potential Question: Jirón de la Unión, with score 25.616741180419922
+Potential Question: Seinäjoki, with score 25.048763275146484
+Potential Question: Montpellier Cathedral, with score 24.196470260620117
+Potential Question: St. John the Evangelist Catholic Church (Indianapolis, Indiana), with score 24.14883041381836
+Potential Question: Visitation of the Blessed Virgin Mary Church (Bronx, New York), with score 23.61679458618164
+Potential Question: Tourism in the Netherlands, with score 23.346725463867188
+Original query: "Patriot Games"; he's had other iconic roles, in space & underground HE PLAYED A GUY NAMED JACK RYAN IN...
+Tokenized query: Patriot Game icon role space underground plai gui JACK RYAN
+Potential Question: Freedom Force (2002 video game), with score 28.40913200378418
+Potential Question: Phil LaMarr, with score 25.724639892578125
+Potential Question: Twin Series Vol. 3 – Konchuu Monster/Super Chinese Labyrinth, with score 25.605693817138672
+Potential Question: Raiden (Metal Gear), with score 25.55245590209961
+Potential Question: Armin Shimerman, with score 24.600425720214844
+Potential Question: Bill Mumy, with score 23.654481887817383
+Potential Question: Somerset Patriots, with score 22.746753692626953
+Potential Question: Villains and Vigilantes, with score 22.667335510253906
+Potential Question: Timmy Ryan, with score 22.59198760986328
+Potential Question: Rolento, with score 22.41982650756836
+Original query: The name of this dish of marinated lamb, skewered & grilled, comes from the Greek for "skewer" & also starts with "s" GREEK FOOD & DRINK
+Tokenized query: thi dish marin lamb skewer grill come greek skewer start s GREEK food drink
+Potential Question: Souvlaki, with score 82.70464324951172
+Potential Question: Akçaabat meatballs, with score 51.98591995239258
+Potential Question: Brazilian cuisine, with score 46.71815490722656
+Potential Question: Awadhi cuisine, with score 43.30854034423828
+Potential Question: Sicilian cuisine, with score 42.663448333740234
+Potential Question: Taste of the Danforth, with score 42.188533782958984
+Potential Question: Lountza, with score 40.380523681640625
+Potential Question: Serbian cuisine, with score 40.232784271240234
+Potential Question: Kushi (skewer), with score 40.012577056884766
+Potential Question: Jangan-gu, with score 39.65226745605469
+Original query: Father Michael McGivney founded this fraternal society for Catholic laymen in 1882 SERVICE ORGANIZATIONS
+Tokenized query: Father Michael McGivnei thi fratern societi cathol layman 1882 SERVICE organ
+Potential Question: Knights of Columbus, with score 40.78148651123047
+Potential Question: Studentenverbindung, with score 28.97081184387207
+Potential Question: K.A.V. Lovania Leuven, with score 28.271968841552734
+Potential Question: Cartellverband, with score 27.524412155151367
+Potential Question: Degree of Honor Protective Association, with score 25.35724449157715
+Potential Question: Pi Alpha Phi, with score 25.27933692932129
+Potential Question: Lambda Theta Phi, with score 24.900405883789062
+Potential Question: Metaphysical Society, with score 24.77115249633789
+Potential Question: Josephite Fathers, with score 23.993667602539062
+Potential Question: Order of Chosen Friends, with score 23.5364933013916
+Original query: After the fall of France in 1940, this general told his country, "France has lost a battle. But France has not lost the war" HISTORICAL QUOTES
+Tokenized query: fall Franc 1940 thi gener tell countri Franc lose battl Franc lose war histor quot
+Potential Question: Anglo-French Supreme War Council, with score 45.62416458129883
+Potential Question: Philippe Pétain, with score 43.23112869262695
+Potential Question: Fall Rot, with score 42.76614761352539
+Potential Question: Hubert Lyautey, with score 42.46087646484375
+Potential Question: War of the Sixth Coalition, with score 40.86990737915039
+Potential Question: Free French Forces, with score 40.86184310913086
+Potential Question: How Few Remain, with score 40.335166931152344
+Potential Question: Argenis, with score 39.96387481689453
+Potential Question: Charles V of France, with score 39.364898681640625
+Potential Question: Polish contribution to World War II, with score 39.24150466918945
+Original query: The Kalamazoo Institute of Arts STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Tokenized query: Kalamazoo Institut Art STATE art museum -lrb- Alex museum state -rrb-
+Potential Question: Terra Museum, with score 36.87550354003906
+Potential Question: Utah Museum of Fine Arts, with score 35.43400955200195
+Potential Question: Vincent La Gambina, with score 31.399768829345703
+Potential Question: Appleton Museum of Art, with score 31.148906707763672
+Potential Question: Cape Cod Museum of Art, with score 30.889671325683594
+Potential Question: Sally Fletcher-Murchison, with score 30.49725341796875
+Potential Question: Foundation for the Advancement of Art, with score 29.846128463745117
+Potential Question: Louvre Atlanta, with score 29.756595611572266
+Potential Question: Dixon Gallery and Gardens, with score 29.625614166259766
+Potential Question: Lenox (company), with score 29.51531982421875
+Original query: "The Sum of All Fears"; he also won a screenwriting Oscar for "Good Will Hunting" HE PLAYED A GUY NAMED JACK RYAN IN...
+Tokenized query: sum fear win screenwrit Oscar good Will hunt plai gui JACK RYAN
+Potential Question: Helen Hunt, with score 32.12493896484375
+Potential Question: Peter Shaffer, with score 27.414072036743164
+Potential Question: Jack Nicholson, with score 24.460927963256836
+Potential Question: Billy Wilder, with score 24.287002563476562
+Potential Question: Barry Morrow, with score 24.162824630737305
+Potential Question: I. A. L. Diamond, with score 23.86279296875
+Potential Question: Marcus Graham, with score 23.799022674560547
+Potential Question: Clarence Brown, with score 23.648635864257812
+Potential Question: Anthony Shaffer (writer), with score 23.132610321044922
+Potential Question: Tim Ryan (rugby union), with score 23.009668350219727
+Original query: This Italian painter depicted the "Adoration of the Golden Calf" "TIN" MEN
+Tokenized query: thi italian painter depict ador Golden calf tin men
+Potential Question: Nicola Cianfanelli, with score 29.780447006225586
+Potential Question: Lorenzo Monaco, with score 26.369422912597656
+Potential Question: Dirk Stoop, with score 25.684558868408203
+Potential Question: Antonio da Correggio, with score 25.682567596435547
+Potential Question: Tintoretto, with score 25.130571365356445
+Potential Question: Francesco di Vannuccio, with score 24.29222869873047
+Potential Question: Giovanni Battista Gaulli, with score 24.0436954498291
+Potential Question: Carlo Dolci, with score 23.23044204711914
+Potential Question: Vecchietta, with score 23.18218994140625
+Potential Question: Giuseppe Bazzani, with score 23.120859146118164
+Original query: Rita Dove titled a collection of poems "On the Bus with" this woman AFRICAN-AMERICAN WOMEN
+Tokenized query: Rita dove titl collect poem bu thi woman african-american woman
+Potential Question: Nellie Y. McKay, with score 36.64419937133789
+Potential Question: Hattie Gossett, with score 31.76226043701172
+Potential Question: Armand Lanusse, with score 30.829349517822266
+Potential Question: Claudette Colvin, with score 30.550662994384766
+Potential Question: Anne Spencer, with score 30.34601402282715
+Potential Question: Mary Louise Smith (civil rights activist), with score 29.12590789794922
+Potential Question: Marriage squeeze, with score 28.623703002929688
+Potential Question: Rosa Parks, with score 28.53743553161621
+Potential Question: Elizabeth Barrett Browning, with score 27.723209381103516
+Potential Question: Louise Erdrich, with score 27.58782958984375
+Original query: For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production UCLA CELEBRITY ALUMNI
+Tokenized query: brief time attend rebel caus land lead role 1950 stage product UCLA CELEBRITY ALUMNI
+Potential Question: Jamie King (actor), with score 27.758811950683594
+Potential Question: Susan Egan, with score 27.59066390991211
+Potential Question: James Dean, with score 27.37199592590332
+Potential Question: Michael Crawford, with score 26.674015045166016
+Potential Question: Celia Johnson, with score 26.65359115600586
+Potential Question: Dan Shor, with score 26.495441436767578
+Potential Question: Alexis Denisof, with score 25.899873733520508
+Potential Question: Bashkir rebellion (1662-1664), with score 25.464723587036133
+Potential Question: Len Cariou, with score 25.326406478881836
+Potential Question: Rutina Wesley, with score 25.249631881713867
+Original query: One of his "Tales of a Wayside Inn" begins, "Listen, my children, and you shall hear of the midnight ride of Paul Revere" POETS & POETRY
+Tokenized query: tale Waysid Inn begin listen child shall hear midnight ride Paul Rever POETS POETRY
+Potential Question: William Dawes, with score 33.84730911254883
+Potential Question: Óláfs saga Tryggvasonar, with score 29.817462921142578
+Potential Question: Paul Revere, with score 29.53260040283203
+Potential Question: Alan Riach, with score 25.64002799987793
+Potential Question: Great Moments in History, with score 25.176593780517578
+Potential Question: Sterling silver, with score 25.081802368164062
+Potential Question: Murder at Midnight (radio series), with score 24.744110107421875
+Potential Question: Paul Revere & the Raiders, with score 24.586509704589844
+Potential Question: Stacy's Tavern, with score 24.200183868408203
+Potential Question: Upsall Castle, with score 23.966753005981445
+Original query: The Ammonites held sway in this Mideast country in the 1200s B.C. & the capital is named for them HISTORICAL HODGEPODGE
+Tokenized query: Ammonit hold swai thi mideast countri 1200 B.C. capit thei histor hodgepodg
+Potential Question: Rabbah, with score 28.55841064453125
+Potential Question: Raichur district, with score 26.808135986328125
+Potential Question: Historical school of economics, with score 23.9043025970459
+Potential Question: Ammonoidea, with score 23.77862548828125
+Potential Question: Sultanate of Darfur, with score 21.64792251586914
+Potential Question: Principality, with score 21.50264549255371
+Potential Question: Crisis of Leadership, with score 21.11727523803711
+Potential Question: Terpstra, with score 20.301740646362305
+Potential Question: Bank for International Settlements, with score 20.237815856933594
+Potential Question: Capital Country, with score 20.203872680664062
+Original query: A 2-part episode of "JAG" introduced this Mark Harmon drama THAT 20-AUGHTS SHOW
+Tokenized query: 2-part episod JAG introduc thi Mark Harmon drama 20-aught
+Potential Question: Cold Feet, with score 23.526060104370117
+Potential Question: Star Wars (radio), with score 22.4805908203125
+Potential Question: Symphony No. 2 (Lutosławski), with score 22.447101593017578
+Potential Question: Last of the Summer Wine (series 5), with score 22.371036529541016
+Potential Question: Bozo the Clown, with score 22.34689712524414
+Potential Question: House's Head, with score 21.9422664642334
+Potential Question: The City Harmonic, with score 21.808124542236328
+Potential Question: Big Finish Productions, with score 21.786462783813477
+Potential Question: The Defenders (1961 TV series), with score 21.785306930541992
+Potential Question: Incident in a Small Town, with score 21.658279418945312
+Original query: Jell-O NAME THE PARENT COMPANY
+Tokenized query: Jell-O NAME parent COMPANY
+Potential Question: Jell-O, with score 26.724424362182617
+Potential Question: Jelling stones, with score 21.332019805908203
+Potential Question: Jello mold, with score 20.672191619873047
+Potential Question: Dietrich Jells, with score 17.49472999572754
+Potential Question: Cold Stone Creamery, with score 15.490211486816406
+Potential Question: Olive loaf, with score 15.370275497436523
+Potential Question: Camp Roger, with score 14.751251220703125
+Potential Question: Given name, with score 13.460447311401367
+Potential Question: Valery Ortiz, with score 13.374502182006836
+Potential Question: CJOS-FM, with score 13.172615051269531
+Original query: Keats was quoting this Edmund Spenser poem when he told Shelley to "'load every rift' of your subject with ore" THE QUOTABLE KEATS
+Tokenized query: Keat quot thi Edmund Spenser poem tell Shellei load everi rift subject QUOTABLE KEATS
+Potential Question: John Keats, with score 48.208499908447266
+Potential Question: Ode, with score 41.46802520751953
+Potential Question: Ozymandias, with score 39.6988410949707
+Potential Question: Edmund Spenser, with score 39.614036560058594
+Potential Question: The Faerie Queene, with score 34.609275817871094
+Potential Question: Spenserian stanza, with score 31.768850326538086
+Potential Question: Edmund Blunden, with score 30.403379440307617
+Potential Question: La Belle Dame sans Merci, with score 29.953338623046875
+Potential Question: Hymn to Intellectual Beauty, with score 28.784900665283203
+Potential Question: Ode to the West Wind, with score 28.327938079833984
+Original query: France's Philip IV--known as "The Fair"--had Jacques De Molay, the last Grand Master of this order, burned in 1314 I'M BURNIN' FOR YOU
+Tokenized query: Franc 's Philip iv know fair Jacqu De Molai Grand master thi order burn 1314 I BURNIN
+Potential Question: Philip IV of France, with score 72.14128112792969
+Potential Question: Knights Templar, with score 55.09259796142578
+Potential Question: Louis X of France, with score 43.64137268066406
+Potential Question: Ferdinand IV of Castile, with score 42.80254364013672
+Potential Question: Charles IV of France, with score 41.16819381713867
+Potential Question: Victor Amadeus I, Duke of Savoy, with score 40.64634323120117
+Potential Question: Philip V of France, with score 39.91456604003906
+Potential Question: Members of the French Royal Families, with score 38.5179557800293
+Potential Question: Philip VI of France, with score 38.29518508911133
+Potential Question: Louis IV, Holy Roman Emperor, with score 37.601478576660156
+Original query: In 1840 Horace Greeley began publishing "The Log Cabin", a weekly campaign paper in support of this Whig candidate NEWSPAPERS
+Tokenized query: 1840 Horac Greelei begin publish Log Cabin weekli campaign paper support thi whig candid newspap
+Potential Question: Horace Greeley, with score 75.01690673828125
+Potential Question: Anti-Masonic Party, with score 37.0303955078125
+Potential Question: The Day (New London), with score 36.065303802490234
+Potential Question: William Henry Harrison, with score 33.003440856933594
+Potential Question: The Telegraph (Nashua), with score 32.67220687866211
+Potential Question: Schuyler Colfax, with score 32.42025375366211
+Potential Question: Sun-Sentinel, with score 30.315813064575195
+Potential Question: Literaturnaya Gazeta, with score 29.945068359375
+Potential Question: Gringoire (newspaper), with score 29.746990203857422
+Potential Question: Austin Blair, with score 29.14885139465332
+Original query: Song that says, "you make me smile with my heart; your looks are laughable, unphotographable" BROADWAY LYRICS
+Tokenized query: song sai make I smile heart look laughabl unphotograph BROADWAY lyric
+Potential Question: Don't Fight the Feelin', with score 30.892623901367188
+Potential Question: Steal This Album!, with score 27.156064987182617
+Potential Question: A Brisk Young Sailor Courted Me, with score 27.069168090820312
+Potential Question: Heart of Oak, with score 26.59466552734375
+Potential Question: A Few Questions, with score 26.329273223876953
+Potential Question: Big Yellow Taxi, with score 26.1397762298584
+Potential Question: Hurt No More, with score 25.963083267211914
+Potential Question: Baul, with score 25.6492977142334
+Potential Question: Je ne parle pas français, with score 25.64509391784668
+Potential Question: An Invitation to Lubberland, with score 25.283449172973633
+Original query: In "The Deadlocked Election of 1800", James R. Sharp outlines the fall of this dueling vice president NOTES FROM THE CAMPAIGN TRAIL
+Tokenized query: deadlock elect 1800 Jame R. Sharp outlin fall thi duel vice presid note CAMPAIGN trail
+Potential Question: Aaron Burr, with score 39.58855056762695
+Potential Question: Richard Mentor Johnson, with score 33.35649108886719
+Potential Question: Vice President of the United States, with score 32.03643035888672
+Potential Question: United States presidential election in South Dakota, 1988, with score 29.459659576416016
+Potential Question: George Clinton (vice president), with score 29.244462966918945
+Potential Question: Republican Party presidential primaries, 1976, with score 29.00494956970215
+Potential Question: Virginia dynasty, with score 28.80663299560547
+Potential Question: Republic of China presidential election, 2004, with score 28.519166946411133
+Potential Question: Massachusetts Democratic Party, with score 28.161212921142578
+Potential Question: Fernando Ferrer, with score 27.82667350769043
+Original query: He served in the KGB before becoming president & then prime minister of Russia "TIN" MEN
+Tokenized query: serv KGB befor becom presid prime minist Russia TIN MEN
+Potential Question: Government of Kazakhstan, with score 29.670507431030273
+Potential Question: Keizō Obuchi, with score 29.557451248168945
+Potential Question: Vladimir Alganov, with score 29.519542694091797
+Potential Question: Jerzy Hryniewski, with score 28.473617553710938
+Potential Question: Politics of Russia, with score 28.25467300415039
+Potential Question: List of Prime Ministers of the United Arab Emirates, with score 28.136615753173828
+Potential Question: Kuroda Kiyotaka, with score 28.126079559326172
+Potential Question: August Zaleski, with score 28.084667205810547
+Potential Question: Active measures, with score 27.761058807373047
+Potential Question: Prime Minister of France, with score 27.65536880493164
+Original query: This bestseller about problems on the McCain-Palin ticket became an HBO movie with Julianne Moore NOTES FROM THE CAMPAIGN TRAIL
+Tokenized query: thi bestsel problem McCain-Palin ticket becom HBO movi Juliann Moor note CAMPAIGN trail
+Potential Question: Game Change, with score 43.73528289794922
+Potential Question: Ed O'Callaghan, with score 37.47502136230469
+Potential Question: Mark McKinnon, with score 32.288028717041016
+Potential Question: Democratic Party vice presidential candidate selection, 2004, with score 31.198963165283203
+Potential Question: Shuckin' and jivin', with score 26.620149612426758
+Potential Question: Joe Lieberman, with score 25.956485748291016
+Potential Question: Gina Gershon, with score 25.850749969482422
+Potential Question: Mark Paoletta, with score 24.197460174560547
+Potential Question: Michael Moore, with score 24.13469123840332
+Potential Question: Mike Scott (sheriff), with score 24.02067756652832
+Original query: This clear Greek liqueur is quite potent, so it's usually mixed with water, which turns it white & cloudy GREEK FOOD & DRINK
+Tokenized query: thi clear greek liqueur quit potent usual mix water turn white cloudi GREEK food drink
+Potential Question: Ouzo, with score 57.85032272338867
+Potential Question: Liqueur, with score 48.52991485595703
+Potential Question: List of cocktails, with score 42.032005310058594
+Potential Question: List of coffee beverages, with score 40.6925163269043
+Potential Question: Sicilian cuisine, with score 39.432228088378906
+Potential Question: Rose water, with score 39.049583435058594
+Potential Question: Rakı, with score 37.3687858581543
+Potential Question: Anise, with score 37.35590362548828
+Potential Question: Feta, with score 35.12464904785156
+Potential Question: Souvlaki, with score 34.3464241027832
+Original query: The Naples Museum of Art STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Tokenized query: Napl Museum Art STATE art museum -lrb- Alex museum state -rrb-
+Potential Question: Terra Museum, with score 39.58164978027344
+Potential Question: Utah Museum of Fine Arts, with score 39.365543365478516
+Potential Question: Appleton Museum of Art, with score 38.50239181518555
+Potential Question: Cape Cod Museum of Art, with score 37.99433898925781
+Potential Question: Sally Fletcher-Murchison, with score 37.192420959472656
+Potential Question: Louvre Atlanta, with score 36.613067626953125
+Potential Question: Dixon Gallery and Gardens, with score 36.549713134765625
+Potential Question: Foundation for the Advancement of Art, with score 36.277671813964844
+Potential Question: Vincent La Gambina, with score 34.75896453857422
+Potential Question: Collins Center for the Arts, with score 34.57822799682617
+Original query: Because it's cured & stored in brine, this crumbly white cheese made from sheep's milk is often referred to as pickled cheese GREEK FOOD & DRINK
+Tokenized query: becaus cure store brine thi crumbl white chees make sheep 's milk refer pickl chees GREEK food drink
+Potential Question: Feta, with score 90.63421630859375
+Potential Question: Norwegian cuisine, with score 65.01183319091797
+Potential Question: English cuisine, with score 61.329994201660156
+Potential Question: List of cheeses, with score 58.52581024169922
+Potential Question: Pecorino, with score 57.762813568115234
+Potential Question: Casu marzu, with score 57.26287078857422
+Potential Question: Caerphilly cheese, with score 56.61769104003906
+Potential Question: Stilton cheese, with score 56.52934265136719
+Potential Question: Roquefort, with score 55.9744987487793
+Potential Question: Quark (dairy product), with score 55.850059509277344
+Original query: Daniel Hertzberg & James B. Stewart of this paper shared a 1988 Pulitzer for their stories about insider trading NEWSPAPERS
+Tokenized query: Daniel Hertzberg Jame B. Stewart thi paper share 1988 Pulitz thei stori insid trade newspap
+Potential Question: The Wall Street Journal, with score 38.61949157714844
+Potential Question: Los Angeles Times, with score 33.32246780395508
+Potential Question: The Baltimore Sun, with score 32.55780029296875
+Potential Question: The Atlanta Journal-Constitution, with score 31.729385375976562
+Potential Question: The Hutchinson News, with score 31.47667694091797
+Potential Question: Yellow journalism, with score 30.952558517456055
+Potential Question: Hedrick Smith, with score 29.24614906311035
+Potential Question: Epigram (newspaper), with score 28.07691192626953
+Potential Question: City News Bureau of Chicago, with score 28.062177658081055
+Potential Question: Sun-Sentinel, with score 27.59858512878418
+Original query: On May 5, 1878 Alice Chambers was the last person buried in this Dodge City, Kansas cemetery CEMETERIES
+Tokenized query: Mai 5 1878 Alice Chamber person buri thi Dodg Citi Kansa cemeteri cemeteri
+Potential Question: Boot Hill, with score 47.63180160522461
+Potential Question: Panteón de Dolores, with score 36.72911071777344
+Potential Question: Almon Brown Strowger, with score 34.35044860839844
+Potential Question: William S. Gregory, with score 34.31529998779297
+Potential Question: Cemetery, with score 32.99879837036133
+Potential Question: Edwin M. Shepard, with score 32.28984832763672
+Potential Question: Ross Bay Cemetery, with score 32.286224365234375
+Potential Question: Linden Grove Cemetery, with score 31.921470642089844
+Potential Question: Catacombs of Paris, with score 31.526613235473633
+Potential Question: Cementerio Católico San Vicente de Paul, with score 31.222124099731445
+Original query: You can't mention this shortstop without mentioning his double-play associates Evers & Chance "TIN" MEN
+Tokenized query: mention thi shortstop mention double-plai associ Ever chanc tin men
+Potential Question: Nelson Norman, with score 27.53765869140625
+Potential Question: Nicholas Tooley, with score 27.211774826049805
+Potential Question: Double play, with score 24.972471237182617
+Potential Question: Joe Tinker, with score 24.806842803955078
+Potential Question: Shortstop, with score 23.751632690429688
+Potential Question: Hughie Jennings, with score 23.676807403564453
+Potential Question: Robert Armin, with score 22.927139282226562
+Potential Question: Rudy Hulswitt, with score 22.2220458984375
+Potential Question: Pedro López (baseball), with score 21.630483627319336
+Potential Question: Joseph Taylor (actor), with score 21.38149070739746
+Original query: News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep! 1920s NEWS FLASH!
+Tokenized query: New flash thi less-than-yappi pappi sixth veep nation 's dog chief deep sleep 1920 new flash
+Potential Question: Kid Flash, with score 31.623409271240234
+Potential Question: Non-volatile random-access memory, with score 29.82524299621582
+Potential Question: Kaley Fountain, with score 29.714017868041992
+Potential Question: IBM Deep Thunder, with score 29.179183959960938
+Potential Question: Flash evaporation, with score 29.177291870117188
+Potential Question: Harold Eugene Edgerton, with score 28.986921310424805
+Potential Question: Flash memory, with score 28.807525634765625
+Potential Question: ActionScript, with score 28.794910430908203
+Potential Question: Adobe Flash, with score 28.522071838378906
+Potential Question: Enchanted loom, with score 28.25239372253418
+Original query: This member of the Nixon & Ford cabinets was born in Furth, Germany in 1923 HISTORICAL HODGEPODGE
+Tokenized query: thi member Nixon Ford cabinet bear Furth Germani 1923 HISTORICAL HODGEPODGE
+Potential Question: William B. Saxbe, with score 28.412012100219727
+Potential Question: Théophile Delcassé, with score 25.177230834960938
+Potential Question: Helmut Sturm, with score 24.004356384277344
+Potential Question: 1st government of Turkey, with score 23.85560417175293
+Potential Question: Henry Kissinger, with score 22.971635818481445
+Potential Question: List of Presidents of the United States by other offices held, with score 22.417434692382812
+Potential Question: Anton Grylewicz, with score 21.175626754760742
+Potential Question: Otto Schily, with score 21.060657501220703
+Potential Question: Carl Albert, with score 21.04168701171875
+Potential Question: Arthur Sauvé, with score 20.996355056762695
+Original query: 1927! Gene Tunney takes a long count in the squared circle but rises to defeat this "Manassa Mauler"! Howzabout that! 1920s NEWS FLASH!
+Tokenized query: 1927 Gene Tunnei long count squar circl rise defeat thi Manassa Mauler Howzabout 1920 new flash
+Potential Question: Jack Dempsey, with score 49.970367431640625
+Potential Question: Lou Stillman, with score 26.66988182067871
+Potential Question: MIM-46 Mauler, with score 26.012367248535156
+Potential Question: New Jersey Route 37, with score 25.729063034057617
+Potential Question: Dan Minor, with score 25.721826553344727
+Potential Question: 1977 VFL Grand Final, with score 25.175914764404297
+Potential Question: Alexander Kolowrat, with score 24.012510299682617
+Potential Question: Vehicle registration plates of Italy, with score 23.720186233520508
+Potential Question: Tommy Gibbons, with score 22.676815032958984
+Potential Question: Edna Ferber, with score 22.478565216064453
+Original query: This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship UCLA CELEBRITY ALUMNI
+Tokenized query: thi woman win consecut heptathlon Olympic UCLA basketbal scholarship UCLA CELEBRITY ALUMNI
+Potential Question: Jackie Joyner-Kersee, with score 57.581398010253906
+Potential Question: George Stanich, with score 40.76387405395508
+Potential Question: University of California, Los Angeles, with score 40.0954704284668
+Potential Question: Mighty Bruins, with score 38.116294860839844
+Potential Question: Lyudmyla Blonska, with score 37.141910552978516
+Potential Question: Cy Young (athlete), with score 36.51523208618164
+Potential Question: Greg Foster (hurdler), with score 36.23200988769531
+Potential Question: Men's Gym, with score 34.33995056152344
+Potential Question: Kareem Abdul-Jabbar, with score 33.78158950805664
+Potential Question: 1984 Rose Bowl, with score 32.40899658203125
+Original query: Post-it notes NAME THE PARENT COMPANY
+Tokenized query: post-it note NAME parent COMPANY
+Potential Question: William Dean Singleton, with score 15.242944717407227
+Potential Question: List of ship names of the Royal Navy, with score 14.424173355102539
+Potential Question: Marguerite Vogt, with score 14.239898681640625
+Potential Question: Ajmalan, with score 13.955467224121094
+Potential Question: Peter Rost (doctor), with score 13.677234649658203
+Potential Question: CJOS-FM, with score 13.172615051269531
+Potential Question: Huntington Learning Center, with score 12.849936485290527
+Potential Question: Adelbert von Chamisso, with score 12.740970611572266
+Potential Question: Luminous Power Technologies, with score 12.336685180664062
+Potential Question: Triticale, with score 12.332478523254395
+Original query: Milton Bradley games NAME THE PARENT COMPANY
+Tokenized query: Milton Bradlei game NAME parent COMPANY
+Potential Question: Axis & Allies, with score 26.3697509765625
+Potential Question: Microvision, with score 26.04885482788086
+Potential Question: Battleship (game), with score 24.47109603881836
+Potential Question: Vectrex, with score 22.734899520874023
+Potential Question: Hasbro, with score 22.059635162353516
+Potential Question: Snakes and Ladders, with score 19.32018280029297
+Potential Question: Shawn Bradley, with score 17.53065299987793
+Potential Question: Milton, with score 17.31037712097168
+Potential Question: Don Secrist, with score 16.076086044311523
+Potential Question: Little Six Casino, with score 15.75144100189209
+Original query: Pierre Cauchon, Bishop of Beauvais, presided over the trial of this woman who went up in smoke May 30, 1431 I'M BURNIN' FOR YOU
+Tokenized query: Pierr Cauchon Bishop Beauvai presid trial thi woman smoke mai 30 1431 I BURNIN
+Potential Question: Roman Catholic Diocese of Beauvais, with score 50.70323944091797
+Potential Question: Joan of Arc, with score 36.86118698120117
+Potential Question: Beauvais, with score 33.304725646972656
+Potential Question: Medieval Inquisition, with score 31.3558292388916
+Potential Question: Jean Houymet, with score 27.060453414916992
+Potential Question: Wilfried Louisy-Daniel, with score 26.175790786743164
+Potential Question: Judoc, with score 25.17102813720703
+Potential Question: Mount Pelée, with score 24.64055633544922
+Potential Question: William Elphinstone, with score 24.1224365234375
+Potential Question: Jean Casimir-Perier, with score 23.867950439453125
+Original query: Title residence of Otter, Flounder, Pinto & Bluto in a 1978 comedy THE RESIDENTS
+Tokenized query: Titl resid Otter Flounder Pinto Bluto 1978 comedi resid
+Potential Question: Animal House, with score 47.90806198120117
+Potential Question: Bluto, with score 28.033891677856445
+Potential Question: Flounder, with score 24.66575813293457
+Potential Question: Scott & Muriel, with score 21.12135124206543
+Potential Question: Ford Pinto, with score 20.834333419799805
+Potential Question: Claudia Galli, with score 20.810882568359375
+Potential Question: Gigging, with score 20.05837059020996
+Potential Question: A Night to Remember (1942 film), with score 20.039766311645508
+Potential Question: Lyall Brooks, with score 17.72391128540039
+Potential Question: Holiday Hotel, with score 17.386598587036133
+Original query: In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve CONSERVATION
+Tokenized query: 1980 China center cute creatur bamboo-rich Wolong Natur Preserv CONSERVATION
+Potential Question: Oil reserves in Southeast Asia, with score 25.95343017578125
+Potential Question: Toei Fushigi Comedy Series, with score 24.153427124023438
+Potential Question: Wolong Temple, with score 23.531564712524414
+Potential Question: Wolong Panda Reserve, with score 22.07680892944336
+Potential Question: Wolong Nature Reserve, with score 22.07680892944336
+Potential Question: Anji County, with score 21.355194091796875
+Potential Question: Kawaii, with score 21.106910705566406
+Potential Question: Yansheng Coin, with score 21.047161102294922
+Potential Question: Xiang Xiang (giant panda), with score 20.513282775878906
+Potential Question: Edward J. Grug III, with score 20.450035095214844
+Original query: The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China OLD YEAR'S RESOLUTIONS
+Tokenized query: practic pre-author presidenti forc date 1955 resolut thi island near mainland China OLD YEAR 's resolut
+Potential Question: United Nations General Assembly Resolution 505, with score 43.624237060546875
+Potential Question: Taiwan Relations Act, with score 40.717769622802734
+Potential Question: Lin Sen, with score 38.909603118896484
+Potential Question: Taiwanization, with score 37.611053466796875
+Potential Question: One-China policy, with score 36.92351150512695
+Potential Question: Iraq disarmament crisis, with score 36.418453216552734
+Potential Question: History of the Republic of China, with score 36.12582015991211
+Potential Question: Taiwan, with score 35.781124114990234
+Potential Question: United Nations Security Council Resolution 940, with score 35.53682327270508
+Potential Question: Political status of Taiwan, with score 35.21143341064453
+Original query: Wooden 2-story verandas in this Liberian capital are an architectural link to the U.S. south AFRICAN CITIES
+Tokenized query: wooden 2-stori veranda thi liberian capit architectur link U.S. south AFRICAN citi
+Potential Question: Monrovia, with score 33.82038497924805
+Potential Question: Americo-Liberian, with score 33.16091537475586
+Potential Question: Yablanski House, with score 30.017681121826172
+Potential Question: History of Liberia, with score 29.88241958618164
+Potential Question: William R. Tolbert, Jr., with score 28.849172592163086
+Potential Question: Foreign relations of Liberia, with score 28.137605667114258
+Potential Question: Flag of Liberia, with score 28.082551956176758
+Potential Question: Dutchess Company Superintendent's House, with score 27.438383102416992
+Potential Question: Glenview Mansion, with score 26.903474807739258
+Potential Question: Liberia, with score 26.811580657958984
+Original query: This blonde beauty who reprised her role as Amanda on the new "Melrose Place" was a psychology major UCLA CELEBRITY ALUMNI
+Tokenized query: thi blond beauti repris role Amanda new Melros Place psycholog major UCLA CELEBRITY ALUMNI
+Potential Question: Heather Locklear, with score 38.703125
+Potential Question: Melrose Place, with score 35.323516845703125
+Potential Question: Grant Show, with score 34.24131774902344
+Potential Question: Susan Egan, with score 27.723745346069336
+Potential Question: Courtney Thorne-Smith, with score 27.041351318359375
+Potential Question: Donna Vivino, with score 26.861818313598633
+Potential Question: Lisa Rinna, with score 25.85453224182129
+Potential Question: Pearl Eaton, with score 25.767425537109375
+Potential Question: Legally Blonde (musical), with score 25.612201690673828
+Potential Question: Thomas Calabro, with score 25.31773567199707
+Original query: Neurobiologist Amy Farrah Fowler on "The Big Bang Theory", in real life she has a Ph.D. in neuroscience from UCLA UCLA CELEBRITY ALUMNI
+Tokenized query: Neurobiologist Amy Farrah Fowler The Big Bang Theori real life ph.d. neurosci UCLA UCLA CELEBRITY ALUMNI
+Potential Question: Mayim Bialik, with score 73.42518615722656
+Potential Question: Amy Fowler, with score 56.222930908203125
+Potential Question: Mighty Bruins, with score 39.17583084106445
+Potential Question: Howard Wolowitz, with score 35.72975540161133
+Potential Question: Kamran Khavarani, with score 33.69731521606445
+Potential Question: Andrea M. Ghez, with score 32.07201385498047
+Potential Question: Raj Koothrappali, with score 31.89971160888672
+Potential Question: Steven Loza, with score 31.73470115661621
+Potential Question: University of California, Los Angeles, with score 31.72307014465332
+Potential Question: Rover (song), with score 29.861278533935547
+Original query: The Pulitzer-winning "The Making of the President 1960" covered this man's successful presidential campaign NOTES FROM THE CAMPAIGN TRAIL
+Tokenized query: pulitzer-win make Presid 1960 cover thi man 's success presidenti campaign note CAMPAIGN trail
+Potential Question: James M. Cox, with score 39.26930236816406
+Potential Question: United States presidential election in Massachusetts, 1972, with score 39.0890007019043
+Potential Question: Michael Dukakis, with score 38.60132598876953
+Potential Question: Nebraska's 3rd congressional district election, 2006, with score 38.34559631347656
+Potential Question: Lloyd Bentsen, with score 38.11409378051758
+Potential Question: Wendell Willkie, with score 36.7811393737793
+Potential Question: United States presidential election in Rhode Island, 1964, with score 36.69878387451172
+Potential Question: Henry M. Jackson, with score 36.310420989990234
+Potential Question: Ralph Nader presidential campaign, 2000, with score 36.15153884887695
+Potential Question: Thomas E. Dewey, with score 35.232017517089844
+Original query: In 1843 Isaac Dittenhoefer became the first pres. of this Jewish club whose name means "children of the covenant" SERVICE ORGANIZATIONS
+Tokenized query: 1843 Isaac Dittenhoef becom pres. thi jewish club mean child coven servic organ
+Potential Question: B'nai B'rith, with score 34.10575866699219
+Potential Question: Jacob and Esau, with score 31.98603057861328
+Potential Question: Isaac Morley, with score 27.64682388305664
+Potential Question: Christianity and Judaism, with score 27.547435760498047
+Potential Question: Samuel Hirsch, with score 26.95859146118164
+Potential Question: Jews as the chosen people, with score 26.45388412475586
+Potential Question: Isaac Luria, with score 25.049314498901367
+Potential Question: Beit Ha'Chidush, with score 24.72907066345215
+Potential Question: Kaddish, with score 24.05441665649414
+Potential Question: History of the Jews in Colonial America, with score 24.048858642578125
+Original query: Early in their careers, Mark Twain & Bret Harte wrote pieces for this California city's Chronicle NEWSPAPERS
+Tokenized query: earli thei career Mark Twain Bret Hart write piec thi California citi 's Chronicl NEWSPAPERS
+Potential Question: Bret Harte, with score 56.6932258605957
+Potential Question: Bret Harte Union High School, with score 37.01355743408203
+Potential Question: Joaquin Miller, with score 35.19961929321289
+Potential Question: Dave Meltzer, with score 33.99897766113281
+Potential Question: A Defence of General Funston, with score 33.4677619934082
+Potential Question: A Connecticut Yankee (musical), with score 32.8458137512207
+Potential Question: Imperial Bedrooms, with score 30.605310440063477
+Potential Question: 1860 Wiyot Massacre, with score 30.519489288330078
+Potential Question: Adventures of Huckleberry Finn, with score 30.30472755432129
+Potential Question: Lost Cement Mine, with score 30.139476776123047
+Original query: Indonesia's largest lizard, it's protected from poachers, though we wish it could breathe fire to do the job itself CONSERVATION
+Tokenized query: Indonesia 's largest lizard protect poacher wish breath job CONSERVATION
+Potential Question: Gaurishankar Conservation Area, with score 25.24489974975586
+Potential Question: Alaungdaw Kathapa National Park, with score 19.83072853088379
+Potential Question: Studland and Godlingston Heath National Nature Reserve, with score 19.54937744140625
+Potential Question: Lizard, with score 19.442888259887695
+Potential Question: Bloom County, with score 18.925710678100586
+Potential Question: Lizard Head Wilderness, with score 18.90906524658203
+Potential Question: Varan, with score 18.8442325592041
+Potential Question: Indonesia–European Union relations, with score 18.477115631103516
+Potential Question: Komodo dragon, with score 18.381940841674805
+Potential Question: Ditchingham, with score 18.08536148071289
+Original query: The Georgia O'Keeffe Museum STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Tokenized query: Georgia O'Keeff Museum STATE art museum -lrb- Alex museum state -rrb-
+Potential Question: Dan Budnik, with score 38.8452262878418
+Potential Question: Louvre Atlanta, with score 37.62389373779297
+Potential Question: Terra Museum, with score 33.61493682861328
+Potential Question: Utah Museum of Fine Arts, with score 33.388710021972656
+Potential Question: Appleton Museum of Art, with score 32.650211334228516
+Potential Question: Cape Cod Museum of Art, with score 32.36983108520508
+Potential Question: Sally Fletcher-Murchison, with score 31.471473693847656
+Potential Question: Dixon Gallery and Gardens, with score 30.97719955444336
+Potential Question: Foundation for the Advancement of Art, with score 30.428604125976562
+Potential Question: Mosaic Templars Cultural Center, with score 30.01622772216797
+Original query: 1988: "Father Figure" '80s NO.1 HITMAKERS
+Tokenized query: 1988 Father Figur '80 no. 1 hitmak
+Potential Question: Schweizer SGS 1-24, with score 16.850202560424805
+Potential Question: Mathieu Dossevi, with score 13.574362754821777
+Potential Question: Them Again, with score 13.470951080322266
+Potential Question: Marley Marl, with score 13.374601364135742
+Potential Question: Remo Brindisi, with score 13.228901863098145
+Potential Question: Akio Takamori, with score 13.010184288024902
+Potential Question: Brian Brown (musician), with score 13.008917808532715
+Potential Question: Judith Barsi, with score 12.96126651763916
+Potential Question: Tim Higgins, with score 12.939067840576172
+Potential Question: Terah, with score 12.776836395263672
+Original query: In 2011 bell ringers for this charity started accepting digital donations to its red kettle POTPOURRI
+Tokenized query: 2011 bell ringer thi chariti start accept digit donat red kettl potpourri
+Potential Question: Change ringing, with score 30.129135131835938
+Potential Question: The Salvation Army, with score 29.102718353271484
+Potential Question: Pró-Vida, with score 27.087682723999023
+Potential Question: Donation, with score 25.546398162841797
+Potential Question: Capital (radio network), with score 23.7561092376709
+Potential Question: Campanology, with score 23.604312896728516
+Potential Question: Aloysius Society, with score 23.09579849243164
+Potential Question: GiveWell, with score 22.40352439880371
+Potential Question: Goodwill Industries, with score 22.23723030090332
+Potential Question: Deg Tegh Fateh, with score 22.167661666870117
+Original query: Phnom Penh's notorious gridlock is circumvented by the nimble tuk-tuk, a motorized taxi that's also known as an auto this, a similar Asian conveyance. CAMBODIAN HISTORY & CULTURE
+Tokenized query: Phnom Penh 's notori gridlock circumv nimbl tuk-tuk motor taxi know auto thi similar asian convey CAMBODIAN HISTORY CULTURE
+Potential Question: Olympic Stadium (Phnom Penh), with score 47.352081298828125
+Potential Question: Transport in Cambodia, with score 46.85757064819336
+Potential Question: Norodom Buppha Devi, with score 43.466697692871094
+Potential Question: Khmer Rouge, with score 40.02312469482422
+Potential Question: Highways to a War, with score 39.95008087158203
+Potential Question: Telecommunications in Cambodia, with score 38.323421478271484
+Potential Question: Yesudasan, with score 36.54582977294922
+Potential Question: Coppersmith Barbet, with score 36.48770523071289
+Potential Question: History of Cambodia, with score 36.47623062133789
+Potential Question: Operation Prek Ta, with score 36.24599838256836
+Original query: The Royal Palace grounds feature a statue of King Norodom, who in the late 1800s was compelled to first put his country under the control of this European power; of course, it was sculpted in that country CAMBODIAN HISTORY & CULTURE
+Tokenized query: Royal Palac ground featur statu King Norodom late 1800 compel countri control thi european power cours sculpt countri CAMBODIAN HISTORY CULTURE
+Potential Question: Politics of Cambodia, with score 53.121368408203125
+Potential Question: Norodom Buppha Devi, with score 45.43769073486328
+Potential Question: List of heads of state of Cambodia, with score 42.71378707885742
+Potential Question: History of Cambodia, with score 40.81033706665039
+Potential Question: Reamker, with score 35.8922119140625
+Potential Question: Capital of the Netherlands, with score 35.45276641845703
+Potential Question: Visegrád, with score 34.596343994140625
+Potential Question: Principality, with score 34.164024353027344
+Potential Question: Coudenberg, with score 33.35293960571289
+Potential Question: Monarchy of Sweden, with score 33.16006851196289
+Original query: In 1888 this Chancellor told the Reichstag, "we Germans fear God, but nothing else in the world" HISTORICAL QUOTES
+Tokenized query: 1888 thi Chancellor tell Reichstag German fear God noth els world histor quot
+Potential Question: Theobald von Bethmann-Hollweg, with score 33.39213562011719
+Potential Question: Enabling Act of 1933, with score 33.175411224365234
+Potential Question: Reichstag Fire Decree, with score 32.043182373046875
+Potential Question: Heinrich Brüning, with score 31.067827224731445
+Potential Question: Georg Michaelis, with score 30.636308670043945
+Potential Question: Fritz Sauckel, with score 30.170854568481445
+Potential Question: Wilhelm II, German Emperor, with score 29.781509399414062
+Potential Question: Reichstag, with score 28.201435089111328
+Potential Question: Otto von Bismarck, with score 27.955657958984375
+Potential Question: Das Rheingold, with score 27.32313346862793
+Original query: Crest toothpaste NAME THE PARENT COMPANY
+Tokenized query: Crest toothpast NAME parent COMPANY
+Potential Question: Crest (toothpaste), with score 27.86614227294922
+Potential Question: Toothpaste, with score 20.28627586364746
+Potential Question: Epeus, with score 15.118727684020996
+Potential Question: Air India (football club), with score 14.373302459716797
+Potential Question: CJOS-FM, with score 13.172615051269531
+Potential Question: Saint Louis Athletica, with score 13.04172420501709
+Potential Question: Huntington Learning Center, with score 12.849936485290527
+Potential Question: Crested Shelduck, with score 12.672966957092285
+Potential Question: Luminous Power Technologies, with score 12.336685180664062
+Potential Question: China Merchants Holdings (International), with score 12.210771560668945
+Original query: In 2009: Joker on film GOLDEN GLOBE WINNERS
+Tokenized query: 2009 Joker film GOLDEN GLOBE winner
+Potential Question: Joan Plowright, with score 27.512102127075195
+Potential Question: Jimmy Harry, with score 27.485689163208008
+Potential Question: Miranda Richardson, with score 26.008440017700195
+Potential Question: Rita Blanco, with score 25.918628692626953
+Potential Question: Paul Le Mat, with score 25.892303466796875
+Potential Question: Olympia Dukakis, with score 25.687089920043945
+Potential Question: Chaim Topol, with score 25.11461639404297
+Potential Question: Geoffrey Rush, with score 25.036569595336914
+Potential Question: Pelle the Conqueror, with score 24.931663513183594
+Potential Question: Warren Beatty, with score 24.825172424316406
+Original query: This port is the southernmost of South Africa's 3 capitals AFRICAN CITIES
+Tokenized query: thi port southernmost South Africa 's 3 capit AFRICAN citi
+Potential Question: Urbanization in Africa, with score 36.11048126220703
+Potential Question: Port Elizabeth Airport, with score 32.573692321777344
+Potential Question: Malabo, with score 31.81269073486328
+Potential Question: Port Elizabeth, with score 30.412172317504883
+Potential Question: Portuguese Mozambique, with score 30.38411521911621
+Potential Question: Pietermaritzburg, with score 30.357467651367188
+Potential Question: Dakar, with score 30.017831802368164
+Potential Question: Transport in Lesotho, with score 29.90182113647461
+Potential Question: Bloemfontein, with score 29.068172454833984
+Potential Question: Southern Africa, with score 28.866666793823242
+Original query: 1983: "Beat It" '80s NO.1 HITMAKERS
+Tokenized query: 1983 beat '80 no. 1 hitmak
+Potential Question: Them Again, with score 17.44118881225586
+Potential Question: Fontana Records, with score 16.5068359375
+Potential Question: Juan López Fontana, with score 15.438307762145996
+Potential Question: Fred Davis (snooker player), with score 15.4176025390625
+Potential Question: Cliff Thorburn, with score 15.323863983154297
+Potential Question: Black Milk, with score 15.272856712341309
+Potential Question: 1983 BDO World Darts Championship, with score 15.17227554321289
+Potential Question: 2009 Turkish Cup Final, with score 14.941648483276367
+Potential Question: Jimmy Somerville, with score 14.751599311828613
+Potential Question: Kelowna Spartans, with score 14.290994644165039
+Original query: The High Kirk of St. Giles, where John Knox was minister CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+Tokenized query: high Kirk St. Gile John Knox minist CAPITAL CITY CHURCHES -lrb- Alex church tell capit citi locat -rrb-
+Potential Question: Rivers of Life, Oxford, with score 30.072189331054688
+Potential Question: St. Mary, Our Lady of Mount Carmel Cathedral (Gaylord, Michigan), with score 26.45554542541504
+Potential Question: St. Columba's Church (Hopewell Junction, New York), with score 25.242759704589844
+Potential Question: Lyne Kirk, with score 25.069976806640625
+Potential Question: Half Way Tree, with score 24.701372146606445
+Potential Question: Cathedral of Our Lady of the Rosary (Duluth, Minnesota), with score 24.427467346191406
+Potential Question: Webb City High School (Missouri), with score 23.310230255126953
+Potential Question: St. John the Baptist Church, Mumbai, with score 22.92276954650879
+Potential Question: Cathedral of the Immaculate Conception (Lake Charles, Louisiana), with score 22.81804847717285
+Potential Question: Conwal Parish Church (Church of Ireland), with score 22.696563720703125
+Original query: Originally this club's emblem was a wagon wheel; now it's a gearwheel with 24 cogs & 6 spokes SERVICE ORGANIZATIONS
+Tokenized query: origin thi club 's emblem wagon wheel gearwheel 24 cog 6 spoke SERVICE organ
+Potential Question: Spoke, with score 38.49000930786133
+Potential Question: De Mearmin, Dokkum, with score 36.117897033691406
+Potential Question: De Poelen, Dronrijp, with score 34.54534149169922
+Potential Question: Wheel, with score 32.23479461669922
+Potential Question: Chevrolet Celebrity, with score 30.28512954711914
+Potential Question: Chariot, with score 30.102537155151367
+Potential Question: Penny-farthing, with score 29.988574981689453
+Potential Question: SCOA-P wheel, with score 29.570383071899414
+Potential Question: Webster's Mill, Framsden, with score 29.062593460083008
+Potential Question: Emblem of Angola, with score 28.367300033569336
+Original query: This Georgia paper is known as the AJC for short NEWSPAPERS
+Tokenized query: thi Georgia paper know AJC short newspap
+Potential Question: The Atlanta Journal-Constitution, with score 38.545745849609375
+Potential Question: Stylish Century, with score 21.17901611328125
+Potential Question: Rome News-Tribune, with score 21.011491775512695
+Potential Question: The Five Orange Pips, with score 20.674211502075195
+Potential Question: Metropolis Daily, with score 19.960580825805664
+Potential Question: Naye Prese, with score 19.806381225585938
+Potential Question: Daily Worker, with score 17.919044494628906
+Potential Question: Wallace Carlson, with score 17.853229522705078
+Potential Question: Sketches by Boz, with score 17.703577041625977
+Potential Question: Geertruida Middendorp, with score 17.65791130065918
+Original query: Attending UCLA in the '60s, he was no "Meathead", he just played one later on television UCLA CELEBRITY ALUMNI
+Tokenized query: attend UCLA '60 Meathead just plai later televis UCLA CELEBRITY ALUMNI
+Potential Question: Mighty Bruins, with score 38.57284927368164
+Potential Question: Rob Reiner, with score 36.96144104003906
+Potential Question: Ron Pitts, with score 34.7166748046875
+Potential Question: University of California, Los Angeles, with score 33.87863540649414
+Potential Question: Animal Crackers (film), with score 33.02550506591797
+Potential Question: Jason Bell (American football), with score 32.00419235229492
+Potential Question: Kareem Abdul-Jabbar, with score 30.125959396362305
+Potential Question: 1984 Rose Bowl, with score 29.89908790588379
+Potential Question: Cy Young (athlete), with score 29.847448348999023
+Potential Question: Julie Dash, with score 29.332542419433594
+Original query: Large specimens of this marsupial can leap over barriers 6 feet high POTPOURRI
+Tokenized query: larg specimen thi marsupi leap barrier 6 foot high potpourri
+Potential Question: Broad-faced potoroo, with score 31.530508041381836
+Potential Question: Borhyaenidae, with score 27.654855728149414
+Potential Question: Stejneger's beaked whale, with score 22.78506851196289
+Potential Question: Marsupial mole, with score 22.508140563964844
+Potential Question: Kangaroo, with score 21.595094680786133
+Potential Question: Yungavolucris, with score 21.358383178710938
+Potential Question: Gray's beaked whale, with score 20.8341064453125
+Potential Question: Possum, with score 20.52727699279785
+Potential Question: Fauna of Australia, with score 20.323753356933594
+Potential Question: Flinders Ranges National Park, with score 20.098793029785156
+Original query: The Sun Valley Center for the Arts STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+Tokenized query: Sun Vallei Center art state art museum -lrb- Alex museum state -rrb-
+Potential Question: Cape Cod Museum of Art, with score 35.46357727050781
+Potential Question: Terra Museum, with score 35.27184295654297
+Potential Question: Collins Center for the Arts, with score 34.668556213378906
+Potential Question: Utah Museum of Fine Arts, with score 34.362762451171875
+Potential Question: Sally Fletcher-Murchison, with score 34.328216552734375
+Potential Question: Mosaic Templars Cultural Center, with score 31.579652786254883
+Potential Question: Appleton Museum of Art, with score 31.148906707763672
+Potential Question: Hancock House (Ticonderoga, New York), with score 30.512252807617188
+Potential Question: Foundation for the Advancement of Art, with score 29.846128463745117
+Potential Question: Louvre Atlanta, with score 29.756595611572266
+Original query: It was the peninsula fought over in the peninsular war of 1808 to 1814 HISTORICAL HODGEPODGE
+Tokenized query: peninsula fight peninsular war 1808 1814 HISTORICAL HODGEPODGE
+Potential Question: Vicente Genaro de Quesada, with score 38.37793731689453
+Potential Question: Godfrey Macdonald, 3rd Baron Macdonald of Slate, with score 30.360166549682617
+Potential Question: Alexander Gordon (British cavalry officer), with score 26.797365188598633
+Potential Question: Ferdinand VII of Spain, with score 26.741483688354492
+Potential Question: Battle of Roliça, with score 26.617443084716797
+Potential Question: War of the Sixth Coalition, with score 26.26410484313965
+Potential Question: Napoleonic Wars, with score 24.955303192138672
+Potential Question: Manuel Freire de Andrade, with score 23.265438079833984
+Potential Question: Rioseco Abbey, with score 22.50088882446289
+Potential Question: FitzRoy Somerset, 1st Baron Raglan, with score 22.29264259338379
+Original query: In a 1959 American kitchen exhibit in Moscow, he told Khrushchev, "In America, we like to make life easier for women" HISTORICAL QUOTES
+Tokenized query: 1959 american kitchen exhibit Moscow tell Khrushchev America like make life easier woman histor quot
+Potential Question: American National Exhibition, with score 47.56777572631836
+Potential Question: Yuri Zhukov (journalist), with score 30.108306884765625
+Potential Question: Cuban missile crisis, with score 29.176280975341797
+Potential Question: Woman of the Year, with score 28.1738224029541
+Potential Question: Robert Frank, with score 27.148698806762695
+Potential Question: The Watermelon Woman, with score 26.84103775024414
+Potential Question: The Book of Salt, with score 26.78757095336914
+Potential Question: Davis Phinney, with score 25.647321701049805
+Potential Question: Esfir Shub, with score 25.532438278198242
+Potential Question: Pollock (film), with score 25.368148803710938
+Original query: The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress OLD YEAR'S RESOLUTIONS
+Tokenized query: Kentucki Virginia resolut pass protest controversi 1798 act Congress OLD YEAR 's resolut
+Potential Question: Kentucky and Virginia Resolutions, with score 69.58978271484375
+Potential Question: Second Continental Congress, with score 43.058555603027344
+Potential Question: Richard Henry Lee, with score 37.3516845703125
+Potential Question: Stamp Act 1765, with score 36.29987335205078
+Potential Question: Patrick Henry, with score 35.080989837646484
+Potential Question: Copyright Act of 1790, with score 34.71724319458008
+Potential Question: History of slavery in Indiana, with score 34.261009216308594
+Potential Question: Big Sandy River (Ohio River), with score 33.39369583129883
+Potential Question: Bourbon whiskey, with score 32.92351531982422
+Potential Question: Congressional Budget and Impoundment Control Act of 1974, with score 32.897064208984375
+Original query: U.N. Res. 242 supports "secure and recognized boundaries" for Israel & neighbors following this June 1967 war OLD YEAR'S RESOLUTIONS
+Tokenized query: U.N. Re 242 support secur recogn boundari Israel neighbor follow thi June 1967 war OLD YEAR 's resolut
+Potential Question: Golan Heights, with score 47.10570526123047
+Potential Question: Camp David Accords, with score 42.787879943847656
+Potential Question: Terje Rød-Larsen, with score 42.782615661621094
+Potential Question: Presbyterian Church (USA) disinvestment from Israel controversy, with score 41.49775695800781
+Potential Question: Israeli–Palestinian conflict, with score 40.556495666503906
+Potential Question: Annexation, with score 38.99650192260742
+Potential Question: United Nations Partition Plan for Palestine, with score 38.87624740600586
+Potential Question: Israel and legitimacy, with score 38.79118728637695
+Potential Question: 1949 Armistice Agreements, with score 38.61578369140625
+Potential Question: 1982 Lebanon War, with score 38.4607048034668
+Original query: This Wisconsin city claims to have built the USA's only granite dome COMPLETE DOM-INATION(Alex: Not "domination.")
+Tokenized query: thi Wisconsin citi claim build USA 's onli granit dome COMPLETE DOM-INATION -lrb- Alex domin -rrb-
+Potential Question: Cathedral of the Nativity in Suzdal, with score 23.805683135986328
+Potential Question: Hayward City Hall, with score 22.284841537475586
+Potential Question: Hudson County Courthouse, with score 22.282350540161133
+Potential Question: Evanston Davis Street (Metra station), with score 20.65788459777832
+Potential Question: Kashmir white granite, with score 20.163808822631836
+Potential Question: United States House of Representatives elections in Wisconsin, 2006, with score 19.692832946777344
+Potential Question: Dudley Tower, with score 19.62803840637207
+Potential Question: Cyclops (roller coaster), with score 19.471227645874023
+Potential Question: Martin Bushnell House, with score 18.592979431152344
+Potential Question: USA Trains, with score 18.217273712158203
+Original query: In 2001: The president of the United States on television GOLDEN GLOBE WINNERS
+Tokenized query: 2001 presid Unite State televis GOLDEN GLOBE winner
+Potential Question: Olympia Dukakis, with score 28.92117691040039
+Potential Question: Geoffrey Rush, with score 28.080568313598633
+Potential Question: Jim Broadbent, with score 27.998729705810547
+Potential Question: Joan Plowright, with score 27.234100341796875
+Potential Question: Helen Hunt, with score 27.141403198242188
+Potential Question: Miranda Richardson, with score 26.364912033081055
+Potential Question: Rita Blanco, with score 26.208541870117188
+Potential Question: Warren Beatty, with score 25.25642204284668
+Potential Question: Cybill, with score 25.252056121826172
+Potential Question: Edward James Olmos, with score 24.975391387939453
+Original query: Early projects of the WWF, this organization, included work with the bald eagle & the red wolf CONSERVATION
+Tokenized query: earli project WWF thi organ includ work bald eagl red wolf conserv
+Potential Question: Guadalajara Zoo, with score 28.187358856201172
+Potential Question: Falconry, with score 27.792903900146484
+Potential Question: United States Fish and Wildlife Service, with score 27.78781509399414
+Potential Question: Tundi Spring Agardy, with score 27.216901779174805
+Potential Question: Kratié (town), with score 27.00332260131836
+Potential Question: Steve Lombardi, with score 26.55742645263672
+Potential Question: Red wolf, with score 26.33370018005371
+Potential Question: Maasai Mara, with score 26.001779556274414
+Potential Question: Lahore Zoo, with score 25.82158088684082
+Potential Question: Red Falcons, with score 25.62533187866211
+Original query: In 1787 he signed his first published poem "Axiologus"; axio- is from the Greek for "worth" POETS & POETRY
+Tokenized query: 1787 sign publish poem Axiologu axio greek worth POETS POETRY
+Potential Question: Axios (acclamation), with score 25.776796340942383
+Potential Question: Alan Riach, with score 25.64002799987793
+Potential Question: Kimberly Johnson, with score 24.32770347595215
+Potential Question: In a Station of the Metro, with score 23.327159881591797
+Potential Question: Axios (organization), with score 22.812660217285156
+Potential Question: Agis of Argos, with score 20.488876342773438
+Potential Question: David Jones (artist-poet), with score 20.154361724853516
+Potential Question: Ernest Thayer, with score 19.955726623535156
+Potential Question: Francis Saltus Saltus, with score 19.756929397583008
+Potential Question: Dennis Cooley, with score 19.606298446655273
+Original query: The mast from the USS Maine is part of the memorial to the ship & crew at this national cemetery CEMETERIES
+Tokenized query: mast USS Main memori ship crew thi nation cemeteri cemeteri
+Potential Question: USS Arizona Memorial, with score 40.84197998046875
+Potential Question: Thomas W. Lawson (ship), with score 35.49415969848633
+Potential Question: Margate Surfboat, with score 35.15785217285156
+Potential Question: Frank Newcomb, with score 34.41577911376953
+Potential Question: Edwin M. Shepard, with score 31.930171966552734
+Potential Question: Full-rigged ship, with score 31.557741165161133
+Potential Question: George Henry Preble, with score 31.38389015197754
+Potential Question: Panayis Athanase Vagliano, with score 31.33715057373047
+Potential Question: USCGC Mohawk (WPG-78), with score 31.332000732421875
+Potential Question: USS Irene Forsyte (IX-93), with score 30.967071533203125
+Original query: This person is the queen's representative in Canada; currently the office is held by David Johnston RANKS & TITLES
+Tokenized query: thi person queen 's repres Canada current offic hold David Johnston RANKS TITLES
+Potential Question: Governor General of Canada, with score 32.70906448364258
+Potential Question: Parliament of Canada, with score 29.576221466064453
+Potential Question: At Her Majesty's pleasure, with score 29.241870880126953
+Potential Question: Alma Mater Society of Queen's University, with score 28.713693618774414
+Potential Question: Order of Military Merit (Canada), with score 28.528621673583984
+Potential Question: Premier (Canada), with score 28.467823028564453
+Potential Question: List of current Canadian first ministers, with score 27.988447189331055
+Potential Question: Charles Tupper, with score 27.798561096191406
+Potential Question: House of Commons of Canada, with score 27.510643005371094
+Potential Question: Queen's peace, with score 27.485363006591797
+Original query: This sacred structure dates from the late 600's A.D. COMPLETE DOM-INATION(Alex: Not "domination.")
+Tokenized query: thi sacr structur date late 600 's A.D. COMPLETE DOM-INATION -lrb- Alex domin -rrb-
+Potential Question: Sacred Heart Catholic Church (McCartyville, Ohio), with score 19.146129608154297
+Potential Question: 6th century BC, with score 17.24240493774414
+Potential Question: Academy of the Sacred Heart (New Orleans), with score 17.068195343017578
+Potential Question: Newtonville United Methodist Church, with score 16.280683517456055
+Potential Question: Stockbridge Village, with score 16.247116088867188
+Potential Question: Church of St. Dismas, the Good Thief, with score 16.15984344482422
+Potential Question: Inertron, with score 15.584834098815918
+Potential Question: 7th century BC, with score 14.833246231079102
+Potential Question: Bovinae, with score 14.766685485839844
+Potential Question: Big Bottom Farm, with score 14.491957664489746
+Original query: He earned the "fifth Beatle" nickname by producing all of the Beatles' albums "TIN" MEN
+Tokenized query: earn fifth beatl nicknam produc Beatl album tin men
+Potential Question: Fifth Beatle, with score 40.52080154418945
+Potential Question: Love (The Beatles album), with score 33.59711456298828
+Potential Question: George Martin, with score 33.58135223388672
+Potential Question: Twist and Shout, with score 33.21672821044922
+Potential Question: Help! (album), with score 33.0818977355957
+Potential Question: Four by the Beatles, with score 32.77827072143555
+Potential Question: Beatles for Sale, with score 32.663028717041016
+Potential Question: The Beatles (album), with score 32.530555725097656
+Potential Question: With the Beatles, with score 32.099159240722656
+Potential Question: 1 (The Beatles album), with score 32.06700897216797
+Original query: Matthias Church, or Matyas Templom, where Franz Joseph was crowned in 1867 CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+Tokenized query: Matthia Church Matya Templom Franz Joseph crown 1867 CAPITAL CITY CHURCHES -lrb- Alex church tell capit citi locat -rrb-
+Potential Question: St. Mary, Our Lady of Mount Carmel Cathedral (Gaylord, Michigan), with score 27.003156661987305
+Potential Question: Cathedral of the Sacred Heart (San Angelo, Texas), with score 26.895536422729492
+Potential Question: St. John the Evangelist Catholic Church (Indianapolis, Indiana), with score 26.560239791870117
+Potential Question: St. Columba's Church (Hopewell Junction, New York), with score 26.407827377319336
+Potential Question: Cathedral of Our Lady of the Rosary (Duluth, Minnesota), with score 25.80953025817871
+Potential Question: Cathedral of the Immaculate Conception (Lake Charles, Louisiana), with score 25.34964370727539
+Potential Question: Cathedral Basilica of St. Joseph (San Jose, California), with score 23.110137939453125
+Potential Question: St. Vincent de Paul Church (Manhattan), with score 23.013917922973633
+Potential Question: St. Joseph's Chapel (Clinton Corners, New York), with score 22.782703399658203
+Potential Question: St Matthais Old Church, with score 22.201122283935547
+Original query: The name of this largest Moroccan city combines 2 Spanish words AFRICAN CITIES
+Tokenized query: thi largest moroccan citi combin 2 spanish word AFRICAN citi
+Potential Question: Melilla, with score 30.5869140625
+Potential Question: Leo Africanus, with score 29.566877365112305
+Potential Question: Perejil Island, with score 29.297056198120117
+Potential Question: Casablanca, with score 28.59362030029297
+Potential Question: History of Western Sahara, with score 28.494985580444336
+Potential Question: Oran, with score 27.655378341674805
+Potential Question: Ismail Ibn Sharif, with score 27.24105453491211
+Potential Question: Londrina, with score 27.22585678100586
+Potential Question: Peñón de Vélez de la Gomera, with score 26.6144962310791
+Potential Question: Demographics of Western Sahara, with score 26.553260803222656
+Original query: When asked to describe herself, she says first & foremost, she is Malia & Sasha's mom AFRICAN-AMERICAN WOMEN
+Tokenized query: ask describ sai foremost Malia Sasha 's mom african-american woman
+Potential Question: Michelle Obama, with score 27.143402099609375
+Potential Question: Sasha Pieterse, with score 26.68364906311035
+Potential Question: Fortune's Fool (novel), with score 23.796716690063477
+Potential Question: Daughters of the Dust, with score 23.61892318725586
+Potential Question: Liz Malia, with score 23.487123489379883
+Potential Question: Hilary Rosen, with score 23.474416732788086
+Potential Question: Lenore Skenazy, with score 22.577255249023438
+Potential Question: Claudette Colvin, with score 22.42791748046875
+Potential Question: The Watermelon Woman, with score 22.40815544128418
+Potential Question: Octavia E. Butler, with score 22.376079559326172
+Original query: One of the N.Y. Times' headlines on this landmark 1973 Supreme Court decision was "Cardinals shocked" POTPOURRI
+Tokenized query: N.Y. Time headlin thi landmark 1973 Suprem Court decis Cardin shock potpourri
+Potential Question: R. v. Owen, with score 29.699182510375977
+Potential Question: Miller v. California, with score 29.35186195373535
+Potential Question: Canada v. Schmidt, with score 29.202259063720703
+Potential Question: Frendak v. United States, with score 28.6566104888916
+Potential Question: Ford v. Quebec (Attorney General), with score 28.298301696777344
+Potential Question: Martin v. Hunter's Lessee, with score 28.0684757232666
+Potential Question: Morris Pashman, with score 28.045839309692383
+Potential Question: Gideon v. Wainwright, with score 27.735380172729492
+Potential Question: Mostyn Hanger, with score 27.47999382019043
+Potential Question: Rochin v. California, with score 27.43998908996582
+Original query: Fisher-Price toys NAME THE PARENT COMPANY
+Tokenized query: Fisher-Pric toi NAME parent COMPANY
+Potential Question: Little People, with score 36.77438735961914
+Potential Question: Toy Town Museum, with score 32.59438705444336
+Potential Question: Buzzy Bee, with score 28.142656326293945
+Potential Question: Jean-Pierre Abbat, with score 23.44589614868164
+Potential Question: Hasbro, with score 20.91807746887207
+Potential Question: Mattel, with score 20.802021026611328
+Potential Question: Arthur Treacher's, with score 16.872764587402344
+Potential Question: Edward Minchen, with score 16.38500213623047
+Potential Question: HyperScan, with score 16.344364166259766
+Potential Question: Baby Bach, with score 15.486486434936523
+Original query: In 2009: Sookie Stackhouse GOLDEN GLOBE WINNERS
+Tokenized query: 2009 Sooki Stackhous GOLDEN GLOBE winner
+Potential Question: True Blood, with score 24.87837791442871
+Potential Question: Anna Paquin, with score 24.09737777709961
+Potential Question: Jimmy Harry, with score 23.24407386779785
+Potential Question: Joan Plowright, with score 22.392656326293945
+Potential Question: Olympia Dukakis, with score 20.616064071655273
+Potential Question: Miranda Richardson, with score 20.499897003173828
+Potential Question: Rita Blanco, with score 20.32451629638672
+Potential Question: Paul Le Mat, with score 20.17508316040039
+Potential Question: Geoffrey Rush, with score 19.780719757080078
+Potential Question: Chaim Topol, with score 19.66049575805664
+Original query: 1988: "Man In The Mirror" '80s NO.1 HITMAKERS
+Tokenized query: 1988 man Mirror '80 no. 1 hitmak
+Potential Question: The Other Man's Grass Is Always Greener, with score 15.211389541625977
+Potential Question: Squeegee man, with score 14.597206115722656
+Potential Question: Locke the Superman, with score 13.959261894226074
+Potential Question: Flag of Paraguay, with score 13.562257766723633
+Potential Question: Arthur Porges, with score 13.484485626220703
+Potential Question: Them Again, with score 13.470951080322266
+Potential Question: Snub dodecahedron, with score 13.205070495605469
+Potential Question: The Psychedelic Furs, with score 13.14983081817627
+Potential Question: The Crystal Palace (novel), with score 13.102102279663086
+Potential Question: Kirby & the Amazing Mirror, with score 13.030416488647461
+Original query: In an essay defending this 2011 film, Myrlie Evers-Williams said, "My mother was" this film "& so was her mother" AFRICAN-AMERICAN WOMEN
+Tokenized query: essai defend thi 2011 film Myrli Evers-William sai mother thi film mother african-american woman
+Potential Question: Medgar Evers, with score 50.013038635253906
+Potential Question: Bedford Hills Correctional Facility for Women, with score 44.68413543701172
+Potential Question: The Help, with score 39.72273254394531
+Potential Question: The Watermelon Woman, with score 37.46678924560547
+Potential Question: Myrna Loy, with score 37.30268478393555
+Potential Question: A Crush on You, with score 37.15282440185547
+Potential Question: All That Heaven Allows, with score 36.88032913208008
+Potential Question: Choke (novel), with score 36.40037536621094
+Potential Question: Vincent Johnson, with score 36.361427307128906
+Potential Question: Hush (1998 film), with score 35.78345489501953
+Original query: Kinch, Carter & LeBeau were all residents of Stalag 13 on this TV show THE RESIDENTS
+Tokenized query: Kinch Carter LeBeau resid Stalag 13 thi tv resid
+Potential Question: Hogan's Heroes, with score 44.583900451660156
+Potential Question: John Carter (ER), with score 25.354469299316406
+Potential Question: City Council of Green River, Wyoming, with score 19.538785934448242
+Potential Question: List of Pennsylvania State University residence halls, with score 19.533218383789062
+Potential Question: Libby Zion Law, with score 18.93938636779785
+Potential Question: Camp David, with score 18.42879295349121
+Potential Question: Barbara Anderson (actress), with score 18.356075286865234
+Potential Question: Tipton-Haynes State Historic Site, with score 17.866268157958984
+Potential Question: Carter Covington, with score 17.503252029418945
+Potential Question: Stalag VIII-F, with score 17.418291091918945
+Original query: 1989: "Miss You Much" '80s NO.1 HITMAKERS
+Tokenized query: 1989 Miss '80 no. 1 hitmak
+Potential Question: I Love the '80s Strikes Back, with score 16.173974990844727
+Potential Question: The Other Man's Grass Is Always Greener, with score 14.471471786499023
+Potential Question: Them Again, with score 13.470951080322266
+Potential Question: Exequiel Benavídez, with score 13.305750846862793
+Potential Question: Barry Banks (rugby league), with score 12.998733520507812
+Potential Question: I Love the '80s (U.S. TV series), with score 12.902936935424805
+Potential Question: Shelly Jamison, with score 12.665939331054688
+Potential Question: Keith Kessinger, with score 12.642724990844727
+Potential Question: Gwendoline Ruais, with score 12.600935935974121
+Potential Question: Erika Eleniak, with score 12.59360122680664
+Original query: In the 400s B.C. this Chinese philosopher went into exile for 12 years HISTORICAL HODGEPODGE
+Tokenized query: 400 B.C. thi chines philosoph exil 12 year histor hodgepodg
+Potential Question: List of British Columbia provincial highways, with score 24.146196365356445
+Potential Question: Zhang Binglin, with score 21.29773712158203
+Potential Question: Bernhard Karlgren, with score 21.1695556640625
+Potential Question: Numerology, with score 20.99140167236328
+Potential Question: Tōten Miyazaki, with score 20.9118595123291
+Potential Question: Zitong County, with score 20.56026840209961
+Potential Question: Ezra, with score 20.525224685668945
+Potential Question: Chinese philosophy, with score 20.516048431396484
+Potential Question: Zhu Rong (god), with score 20.295894622802734
+Potential Question: King Ling of Zhou, with score 20.243562698364258
+Original query: Nov. 28, 1929! This man & his chief pilot Bernt Balchen fly to South Pole! Yowza! You'll be an admirable admiral, sir! 1920s NEWS FLASH!
+Tokenized query: Nov. 28 1929 thi man chief pilot Bernt Balchen fly South Pole Yowza admir admir sir 1920 new flash
+Potential Question: Home Fleet, with score 39.686519622802734
+Potential Question: Keith Park, with score 35.774200439453125
+Potential Question: Edwyn Alexander-Sinclair, with score 34.80708694458008
+Potential Question: George Hyde (admiral), with score 33.576168060302734
+Potential Question: Sagar Pawan, with score 33.12710952758789
+Potential Question: Battle of the Philippine Sea, with score 32.8496208190918
+Potential Question: George Nares, with score 32.6491584777832
+Potential Question: Bombay Flying Club, with score 32.606876373291016
+Potential Question: Alan Shepard, with score 32.20895004272461
+Potential Question: Wilson Flagg, with score 32.14755630493164
+Original query: Feb. 1, National Freedom Day, is the date in 1865 when a resolution sent the states an amendment ending this OLD YEAR'S RESOLUTIONS
+Tokenized query: Feb. 1 Nation Freedom Dai date 1865 resolut send state amend end thi old year 's resolut
+Potential Question: Kentucky and Virginia Resolutions, with score 44.536415100097656
+Potential Question: Equal Rights Amendment, with score 40.06138610839844
+Potential Question: Lambeth Conferences, with score 38.791748046875
+Potential Question: Henry S. Foote, with score 38.565467834472656
+Potential Question: Pledge of Allegiance, with score 37.63935852050781
+Potential Question: International Meridian Conference, with score 37.580631256103516
+Potential Question: Emancipation Proclamation, with score 37.56462097167969
+Potential Question: Second Continental Congress, with score 37.51499938964844
+Potential Question: Quit India Movement, with score 37.25599670410156
+Potential Question: Israeli Declaration of Independence, with score 36.67140579223633
+Original query: She wrote, "My candle burns at both ends... but, ah, my foes, and oh, my friends--it gives a lovely light" POETS & POETRY
+Tokenized query: write candl burn end ah foe oh friend love light POETS POETRY
+Potential Question: Candle, with score 27.485551834106445
+Potential Question: Alan Riach, with score 25.64002799987793
+Potential Question: Betty Thatcher, with score 25.00303840637207
+Potential Question: Hanukkah, with score 23.32907485961914
+Potential Question: Dover Beach, with score 23.287824630737305
+Potential Question: Edmund Blunden, with score 22.9022274017334
+Potential Question: Sanctuary lamp, with score 22.23036766052246
+Potential Question: Forneus, with score 22.16876792907715
+Potential Question: Taps, with score 21.607376098632812
+Potential Question: Ziemassvētki, with score 21.549192428588867
+Original query: 2011: Chicago mayor Tom Kane GOLDEN GLOBE WINNERS
+Tokenized query: 2011 Chicago mayor Tom Kane GOLDEN GLOBE winner
+Potential Question: Olympia Dukakis, with score 26.033479690551758
+Potential Question: Cybill, with score 25.524837493896484
+Potential Question: Tom Wilkinson, with score 23.741252899169922
+Potential Question: Delores Taylor, with score 23.088623046875
+Potential Question: Matt LeBlanc, with score 22.76048469543457
+Potential Question: Miranda Richardson, with score 22.283954620361328
+Potential Question: Larry McMurtry, with score 22.167409896850586
+Potential Question: Christopher McQuarrie, with score 22.139448165893555
+Potential Question: Carol Kane, with score 22.06859016418457
+Potential Question: Jessica Lange, with score 21.89337730407715
+Original query: "The Hunt for Red October"; he went more comedic as Jack Donaghy on "30 Rock" HE PLAYED A GUY NAMED JACK RYAN IN...
+Tokenized query: Hunt Red October comed Jack Donaghi 30 Rock plai gui JACK RYAN
+Potential Question: Adriane Lenox, with score 33.14046096801758
+Potential Question: 30 Rock (season 6), with score 33.13480758666992
+Potential Question: Plunkett Donaghy, with score 32.24022674560547
+Potential Question: The Teeth of the Tiger, with score 30.24675178527832
+Potential Question: Russell Terrier, with score 28.105758666992188
+Potential Question: Captain Jack's Stronghold, with score 27.31769561767578
+Potential Question: Cleveland Panthers, with score 26.587318420410156
+Potential Question: Wolfman Jack, with score 26.139820098876953
+Potential Question: Malice (film), with score 25.917146682739258
+Potential Question: Jumpin' Jack Flash, with score 25.570680618286133
+And the answer is:
+> Several bridges, including El Tahrir, cross the Nile in this capital AFRICAN CITIES
+What is... Cairo?
+That's right!
+And the answer is:
+> The Taft Museum of Art STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+What is... Terra Museum?
+That's wrong. Possible responses:
+Ohio
+And the answer is:
+> 1980: "Rock With You" '80s NO.1 HITMAKERS
+What is... Fontana Records?
+That's wrong. Possible responses:
+Michael Jackson
+And the answer is:
+> In 2010: As Sherlock Holmes on film GOLDEN GLOBE WINNERS
+What is... I. A. L. Diamond?
+That's wrong. Possible responses:
+Robert Downey, Jr.
+And the answer is:
+> Italian for "leader", it was especially applied to Benito Mussolini RANKS & TITLES
+What is... Duce?
+That's right!
+And the answer is:
+> 1922: It's the end of an empire! This empire, in fact! After 600 years, it's goodbye, this, hello, Turkish Republic! 1920s NEWS FLASH!
+What is... Mehmed VI?
+That's wrong. Possible responses:
+Ottoman Empire
+And the answer is:
+> Don Knotts took over from Norman Fell as the resident landlord on this sitcom THE RESIDENTS
+What is... Don Knotts?
+That's wrong. Possible responses:
+Three's Company
+However, the document ranked #3 did have the answer!
+And the answer is:
+> The dominant paper in our nation's capital, it's among the top 10 U.S. papers in circulation NEWSPAPERS
+What is... Media of the United States?
+That's wrong. Possible responses:
+The Washington Post
+And the answer is:
+> Not to be confused with karma, krama is a popular accessory sold in cambodia; the word means "scarf" in this national language of Cambodia CAMBODIAN HISTORY & CULTURE
+What is... Politics of Cambodia?
+That's wrong. Possible responses:
+Khmer language
+And the answer is:
+> In an 1819 letter Keats wrote that this lord & poet "cuts a figure, but he is not figurative" THE QUOTABLE KEATS
+What is... John Keats?
+That's wrong. Possible responses:
+Lord Byron
+However, the document ranked #7 did have the answer!
+And the answer is:
+> Bessie Coleman, the first black woman licensed as a pilot, landed a street named in her honor at this Chicago airport AFRICAN-AMERICAN WOMEN
+What is... Bessie Coleman?
+That's wrong. Possible responses:
+O'Hare
+O'Hare International Airport
+And the answer is:
+> This New Orleans venue reopened Sept. 25, 2006 COMPLETE DOM-INATION(Alex: Not "domination.")
+What is... Snug Harbor (jazz club)?
+That's wrong. Possible responses:
+Mercedes-Benz Superdome
+The Superdome
+And the answer is:
+> In this Finnish city, the Lutheran Cathedral, also known as Tuomiokirkko CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+What is... Cathedral of Our Lady of the Rosary (Duluth, Minnesota)?
+That's wrong. Possible responses:
+Helsinki
+And the answer is:
+> "Patriot Games"; he's had other iconic roles, in space & underground HE PLAYED A GUY NAMED JACK RYAN IN...
+What is... Freedom Force (2002 video game)?
+That's wrong. Possible responses:
+Harrison Ford
+And the answer is:
+> The name of this dish of marinated lamb, skewered & grilled, comes from the Greek for "skewer" & also starts with "s" GREEK FOOD & DRINK
+What is... Souvlaki?
+That's right!
+And the answer is:
+> Father Michael McGivney founded this fraternal society for Catholic laymen in 1882 SERVICE ORGANIZATIONS
+What is... Knights of Columbus?
+That's right!
+And the answer is:
+> After the fall of France in 1940, this general told his country, "France has lost a battle. But France has not lost the war" HISTORICAL QUOTES
+What is... Anglo-French Supreme War Council?
+That's wrong. Possible responses:
+Charles de Gaulle
+de Gaulle
+And the answer is:
+> The Kalamazoo Institute of Arts STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+What is... Terra Museum?
+That's wrong. Possible responses:
+Michigan
+And the answer is:
+> "The Sum of All Fears"; he also won a screenwriting Oscar for "Good Will Hunting" HE PLAYED A GUY NAMED JACK RYAN IN...
+What is... Helen Hunt?
+That's wrong. Possible responses:
+Ben Affleck
+And the answer is:
+> This Italian painter depicted the "Adoration of the Golden Calf" "TIN" MEN
+What is... Nicola Cianfanelli?
+That's wrong. Possible responses:
+Tintoretto
+However, the document ranked #4 did have the answer!
+And the answer is:
+> Rita Dove titled a collection of poems "On the Bus with" this woman AFRICAN-AMERICAN WOMEN
+What is... Nellie Y. McKay?
+That's wrong. Possible responses:
+Rosa Parks
+However, the document ranked #7 did have the answer!
+And the answer is:
+> For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production UCLA CELEBRITY ALUMNI
+What is... Jamie King (actor)?
+That's wrong. Possible responses:
+James Dean
+However, the document ranked #2 did have the answer!
+And the answer is:
+> One of his "Tales of a Wayside Inn" begins, "Listen, my children, and you shall hear of the midnight ride of Paul Revere" POETS & POETRY
+What is... William Dawes?
+That's wrong. Possible responses:
+Henry Wadsworth Longfellow
+And the answer is:
+> The Ammonites held sway in this Mideast country in the 1200s B.C. & the capital is named for them HISTORICAL HODGEPODGE
+What is... Rabbah?
+That's wrong. Possible responses:
+Jordan
+And the answer is:
+> A 2-part episode of "JAG" introduced this Mark Harmon drama THAT 20-AUGHTS SHOW
+What is... Cold Feet?
+That's wrong. Possible responses:
+NCIS
+And the answer is:
+> Jell-O NAME THE PARENT COMPANY
+What is... Jell-O?
+That's wrong. Possible responses:
+Kraft Foods
+And the answer is:
+> Keats was quoting this Edmund Spenser poem when he told Shelley to "'load every rift' of your subject with ore" THE QUOTABLE KEATS
+What is... John Keats?
+That's wrong. Possible responses:
+The Faerie Queene
+However, the document ranked #4 did have the answer!
+And the answer is:
+> France's Philip IV--known as "The Fair"--had Jacques De Molay, the last Grand Master of this order, burned in 1314 I'M BURNIN' FOR YOU
+What is... Philip IV of France?
+That's wrong. Possible responses:
+Knights Templar
+However, the document ranked #1 did have the answer!
+And the answer is:
+> In 1840 Horace Greeley began publishing "The Log Cabin", a weekly campaign paper in support of this Whig candidate NEWSPAPERS
+What is... Horace Greeley?
+That's wrong. Possible responses:
+William Henry Harrison
+However, the document ranked #3 did have the answer!
+And the answer is:
+> Song that says, "you make me smile with my heart; your looks are laughable, unphotographable" BROADWAY LYRICS
+What is... Don't Fight the Feelin'?
+That's wrong. Possible responses:
+My Funny Valentine
+And the answer is:
+> In "The Deadlocked Election of 1800", James R. Sharp outlines the fall of this dueling vice president NOTES FROM THE CAMPAIGN TRAIL
+What is... Aaron Burr?
+That's right!
+And the answer is:
+> He served in the KGB before becoming president & then prime minister of Russia "TIN" MEN
+What is... Government of Kazakhstan?
+That's wrong. Possible responses:
+Vladimir Putin
+Putin
+And the answer is:
+> This bestseller about problems on the McCain-Palin ticket became an HBO movie with Julianne Moore NOTES FROM THE CAMPAIGN TRAIL
+What is... Game Change?
+That's right!
+And the answer is:
+> This clear Greek liqueur is quite potent, so it's usually mixed with water, which turns it white & cloudy GREEK FOOD & DRINK
+What is... Ouzo?
+That's right!
+And the answer is:
+> The Naples Museum of Art STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+What is... Terra Museum?
+That's wrong. Possible responses:
+Florida
+And the answer is:
+> Because it's cured & stored in brine, this crumbly white cheese made from sheep's milk is often referred to as pickled cheese GREEK FOOD & DRINK
+What is... Feta?
+That's right!
+And the answer is:
+> Daniel Hertzberg & James B. Stewart of this paper shared a 1988 Pulitzer for their stories about insider trading NEWSPAPERS
+What is... The Wall Street Journal?
+That's right!
+And the answer is:
+> On May 5, 1878 Alice Chambers was the last person buried in this Dodge City, Kansas cemetery CEMETERIES
+What is... Boot Hill?
+That's right!
+And the answer is:
+> You can't mention this shortstop without mentioning his double-play associates Evers & Chance "TIN" MEN
+What is... Nelson Norman?
+That's wrong. Possible responses:
+Joe Tinker
+However, the document ranked #3 did have the answer!
+And the answer is:
+> News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep! 1920s NEWS FLASH!
+What is... Kid Flash?
+That's wrong. Possible responses:
+Calvin Coolidge
+And the answer is:
+> This member of the Nixon & Ford cabinets was born in Furth, Germany in 1923 HISTORICAL HODGEPODGE
+What is... William B. Saxbe?
+That's wrong. Possible responses:
+Henry Kissinger
+However, the document ranked #4 did have the answer!
+And the answer is:
+> 1927! Gene Tunney takes a long count in the squared circle but rises to defeat this "Manassa Mauler"! Howzabout that! 1920s NEWS FLASH!
+What is... Jack Dempsey?
+That's right!
+And the answer is:
+> This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship UCLA CELEBRITY ALUMNI
+What is... Jackie Joyner-Kersee?
+That's right!
+And the answer is:
+> Post-it notes NAME THE PARENT COMPANY
+What is... William Dean Singleton?
+That's wrong. Possible responses:
+3M
+And the answer is:
+> Milton Bradley games NAME THE PARENT COMPANY
+What is... Axis & Allies?
+That's wrong. Possible responses:
+Hasbro
+However, the document ranked #4 did have the answer!
+And the answer is:
+> Pierre Cauchon, Bishop of Beauvais, presided over the trial of this woman who went up in smoke May 30, 1431 I'M BURNIN' FOR YOU
+What is... Roman Catholic Diocese of Beauvais?
+That's wrong. Possible responses:
+Joan of Arc
+Jeanne d'Arc
+However, the document ranked #1 did have the answer!
+And the answer is:
+> Title residence of Otter, Flounder, Pinto & Bluto in a 1978 comedy THE RESIDENTS
+What is... Animal House?
+That's right!
+And the answer is:
+> In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve CONSERVATION
+What is... Oil reserves in Southeast Asia?
+That's wrong. Possible responses:
+Panda
+Giant panda
+And the answer is:
+> The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China OLD YEAR'S RESOLUTIONS
+What is... United Nations General Assembly Resolution 505?
+That's wrong. Possible responses:
+Taiwan
+However, the document ranked #7 did have the answer!
+And the answer is:
+> Wooden 2-story verandas in this Liberian capital are an architectural link to the U.S. south AFRICAN CITIES
+What is... Monrovia?
+That's right!
+And the answer is:
+> This blonde beauty who reprised her role as Amanda on the new "Melrose Place" was a psychology major UCLA CELEBRITY ALUMNI
+What is... Heather Locklear?
+That's right!
+And the answer is:
+> Neurobiologist Amy Farrah Fowler on "The Big Bang Theory", in real life she has a Ph.D. in neuroscience from UCLA UCLA CELEBRITY ALUMNI
+What is... Mayim Bialik?
+That's right!
+And the answer is:
+> The Pulitzer-winning "The Making of the President 1960" covered this man's successful presidential campaign NOTES FROM THE CAMPAIGN TRAIL
+What is... James M. Cox?
+That's wrong. Possible responses:
+JFK
+John F. Kennedy
+And the answer is:
+> In 1843 Isaac Dittenhoefer became the first pres. of this Jewish club whose name means "children of the covenant" SERVICE ORGANIZATIONS
+What is... B'nai B'rith?
+That's right!
+And the answer is:
+> Early in their careers, Mark Twain & Bret Harte wrote pieces for this California city's Chronicle NEWSPAPERS
+What is... Bret Harte?
+That's wrong. Possible responses:
+San Francisco
+And the answer is:
+> Indonesia's largest lizard, it's protected from poachers, though we wish it could breathe fire to do the job itself CONSERVATION
+What is... Gaurishankar Conservation Area?
+That's wrong. Possible responses:
+Komodo dragon
+However, the document ranked #8 did have the answer!
+And the answer is:
+> The Georgia O'Keeffe Museum STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+What is... Dan Budnik?
+That's wrong. Possible responses:
+New Mexico
+And the answer is:
+> 1988: "Father Figure" '80s NO.1 HITMAKERS
+What is... Schweizer SGS 1-24?
+That's wrong. Possible responses:
+George Michael
+And the answer is:
+> In 2011 bell ringers for this charity started accepting digital donations to its red kettle POTPOURRI
+What is... Change ringing?
+That's wrong. Possible responses:
+The Salvation Army
+Salvation Army
+However, the document ranked #1 did have the answer!
+And the answer is:
+> Phnom Penh's notorious gridlock is circumvented by the nimble tuk-tuk, a motorized taxi that's also known as an auto this, a similar Asian conveyance. CAMBODIAN HISTORY & CULTURE
+What is... Olympic Stadium (Phnom Penh)?
+That's wrong. Possible responses:
+Rickshaw
+And the answer is:
+> The Royal Palace grounds feature a statue of King Norodom, who in the late 1800s was compelled to first put his country under the control of this European power; of course, it was sculpted in that country CAMBODIAN HISTORY & CULTURE
+What is... Politics of Cambodia?
+That's wrong. Possible responses:
+France
+And the answer is:
+> In 1888 this Chancellor told the Reichstag, "we Germans fear God, but nothing else in the world" HISTORICAL QUOTES
+What is... Theobald von Bethmann-Hollweg?
+That's wrong. Possible responses:
+Otto von Bismarck
+Von Bismarck
+However, the document ranked #8 did have the answer!
+And the answer is:
+> Crest toothpaste NAME THE PARENT COMPANY
+What is... Crest (toothpaste)?
+That's wrong. Possible responses:
+Procter & Gamble
+And the answer is:
+> In 2009: Joker on film GOLDEN GLOBE WINNERS
+What is... Joan Plowright?
+That's wrong. Possible responses:
+Heath Ledger
+And the answer is:
+> This port is the southernmost of South Africa's 3 capitals AFRICAN CITIES
+What is... Urbanization in Africa?
+That's wrong. Possible responses:
+Cape Town
+And the answer is:
+> 1983: "Beat It" '80s NO.1 HITMAKERS
+What is... Them Again?
+That's wrong. Possible responses:
+Michael Jackson
+And the answer is:
+> The High Kirk of St. Giles, where John Knox was minister CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+What is... Rivers of Life, Oxford?
+That's wrong. Possible responses:
+Edinburgh
+And the answer is:
+> Originally this club's emblem was a wagon wheel; now it's a gearwheel with 24 cogs & 6 spokes SERVICE ORGANIZATIONS
+What is... Spoke?
+That's wrong. Possible responses:
+Rotary International
+And the answer is:
+> This Georgia paper is known as the AJC for short NEWSPAPERS
+What is... The Atlanta Journal-Constitution?
+That's right!
+And the answer is:
+> Attending UCLA in the '60s, he was no "Meathead", he just played one later on television UCLA CELEBRITY ALUMNI
+What is... Mighty Bruins?
+That's wrong. Possible responses:
+Rob Reiner
+However, the document ranked #1 did have the answer!
+And the answer is:
+> Large specimens of this marsupial can leap over barriers 6 feet high POTPOURRI
+What is... Broad-faced potoroo?
+That's wrong. Possible responses:
+Kangaroo
+However, the document ranked #4 did have the answer!
+And the answer is:
+> The Sun Valley Center for the Arts STATE OF THE ART MUSEUM (Alex: We'll give you the museum. You give us the state.)
+What is... Cape Cod Museum of Art?
+That's wrong. Possible responses:
+Idaho
+And the answer is:
+> It was the peninsula fought over in the peninsular war of 1808 to 1814 HISTORICAL HODGEPODGE
+What is... Vicente Genaro de Quesada?
+That's wrong. Possible responses:
+Iberia
+Iberian Peninsula
+And the answer is:
+> In a 1959 American kitchen exhibit in Moscow, he told Khrushchev, "In America, we like to make life easier for women" HISTORICAL QUOTES
+What is... American National Exhibition?
+That's wrong. Possible responses:
+Richard Nixon
+Nixon
+And the answer is:
+> The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress OLD YEAR'S RESOLUTIONS
+What is... Kentucky and Virginia Resolutions?
+That's wrong. Possible responses:
+The Alien and Sedition Acts
+And the answer is:
+> U.N. Res. 242 supports "secure and recognized boundaries" for Israel & neighbors following this June 1967 war OLD YEAR'S RESOLUTIONS
+What is... Golan Heights?
+That's wrong. Possible responses:
+The Six Day War
+And the answer is:
+> This Wisconsin city claims to have built the USA's only granite dome COMPLETE DOM-INATION(Alex: Not "domination.")
+What is... Cathedral of the Nativity in Suzdal?
+That's wrong. Possible responses:
+Madison
+And the answer is:
+> In 2001: The president of the United States on television GOLDEN GLOBE WINNERS
+What is... Olympia Dukakis?
+That's wrong. Possible responses:
+Martin Sheen
+And the answer is:
+> Early projects of the WWF, this organization, included work with the bald eagle & the red wolf CONSERVATION
+What is... Guadalajara Zoo?
+That's wrong. Possible responses:
+World Wide Fund
+World Wide Fund for Nature
+And the answer is:
+> In 1787 he signed his first published poem "Axiologus"; axio- is from the Greek for "worth" POETS & POETRY
+What is... Axios (acclamation)?
+That's wrong. Possible responses:
+William Wordsworth
+And the answer is:
+> The mast from the USS Maine is part of the memorial to the ship & crew at this national cemetery CEMETERIES
+What is... USS Arizona Memorial?
+That's wrong. Possible responses:
+Arlington National Cemetery
+Arlington Cemetery
+And the answer is:
+> This person is the queen's representative in Canada; currently the office is held by David Johnston RANKS & TITLES
+What is... Governor General of Canada?
+That's right!
+And the answer is:
+> This sacred structure dates from the late 600's A.D. COMPLETE DOM-INATION(Alex: Not "domination.")
+What is... Sacred Heart Catholic Church (McCartyville, Ohio)?
+That's wrong. Possible responses:
+Dome of the Rock
+And the answer is:
+> He earned the "fifth Beatle" nickname by producing all of the Beatles' albums "TIN" MEN
+What is... Fifth Beatle?
+That's wrong. Possible responses:
+George Martin
+However, the document ranked #2 did have the answer!
+And the answer is:
+> Matthias Church, or Matyas Templom, where Franz Joseph was crowned in 1867 CAPITAL CITY CHURCHES (Alex: We'll give you the church. You tell us the capital city in which it is located.)
+What is... St. Mary, Our Lady of Mount Carmel Cathedral (Gaylord, Michigan)?
+That's wrong. Possible responses:
+Budapest
+And the answer is:
+> The name of this largest Moroccan city combines 2 Spanish words AFRICAN CITIES
+What is... Melilla?
+That's wrong. Possible responses:
+Casablanca
+However, the document ranked #3 did have the answer!
+And the answer is:
+> When asked to describe herself, she says first & foremost, she is Malia & Sasha's mom AFRICAN-AMERICAN WOMEN
+What is... Michelle Obama?
+That's right!
+And the answer is:
+> One of the N.Y. Times' headlines on this landmark 1973 Supreme Court decision was "Cardinals shocked" POTPOURRI
+What is... R. v. Owen?
+That's wrong. Possible responses:
+Roe v. Wade
+And the answer is:
+> Fisher-Price toys NAME THE PARENT COMPANY
+What is... Little People?
+That's wrong. Possible responses:
+Mattel
+However, the document ranked #5 did have the answer!
+And the answer is:
+> In 2009: Sookie Stackhouse GOLDEN GLOBE WINNERS
+What is... True Blood?
+That's wrong. Possible responses:
+Anna Paquin
+However, the document ranked #1 did have the answer!
+And the answer is:
+> 1988: "Man In The Mirror" '80s NO.1 HITMAKERS
+What is... The Other Man's Grass Is Always Greener?
+That's wrong. Possible responses:
+Michael Jackson
+And the answer is:
+> In an essay defending this 2011 film, Myrlie Evers-Williams said, "My mother was" this film "& so was her mother" AFRICAN-AMERICAN WOMEN
+What is... Medgar Evers?
+That's wrong. Possible responses:
+The Help
+However, the document ranked #2 did have the answer!
+And the answer is:
+> Kinch, Carter & LeBeau were all residents of Stalag 13 on this TV show THE RESIDENTS
+What is... Hogan's Heroes?
+That's right!
+And the answer is:
+> 1989: "Miss You Much" '80s NO.1 HITMAKERS
+What is... I Love the '80s Strikes Back?
+That's wrong. Possible responses:
+Janet Jackson
+And the answer is:
+> In the 400s B.C. this Chinese philosopher went into exile for 12 years HISTORICAL HODGEPODGE
+What is... List of British Columbia provincial highways?
+That's wrong. Possible responses:
+Confucius
+And the answer is:
+> Nov. 28, 1929! This man & his chief pilot Bernt Balchen fly to South Pole! Yowza! You'll be an admirable admiral, sir! 1920s NEWS FLASH!
+What is... Home Fleet?
+That's wrong. Possible responses:
+Richard Byrd
+Richard E. Byrd
+And the answer is:
+> Feb. 1, National Freedom Day, is the date in 1865 when a resolution sent the states an amendment ending this OLD YEAR'S RESOLUTIONS
+What is... Kentucky and Virginia Resolutions?
+That's wrong. Possible responses:
+Slavery
+Slavery in the United States
+And the answer is:
+> She wrote, "My candle burns at both ends... but, ah, my foes, and oh, my friends--it gives a lovely light" POETS & POETRY
+What is... Candle?
+That's wrong. Possible responses:
+Edna St. Vincent Millay
+And the answer is:
+> 2011: Chicago mayor Tom Kane GOLDEN GLOBE WINNERS
+What is... Olympia Dukakis?
+That's wrong. Possible responses:
+Kelsey Grammer
+And the answer is:
+> "The Hunt for Red October"; he went more comedic as Jack Donaghy on "30 Rock" HE PLAYED A GUY NAMED JACK RYAN IN...
+What is... Adriane Lenox?
+That's wrong. Possible responses:
+Alec Baldwin
+Watson V0.2 got 21 out of 100 right.
+Of the wrong questions, 23 were results in the top 10 documents.
+Watson V0.2 is powering down.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 10.095 s
+[INFO] Finished at: 2019-05-01T18:12:36+00:00
+[INFO] Final Memory: 142M/537M
+[INFO] ------------------------------------------------------------------------
